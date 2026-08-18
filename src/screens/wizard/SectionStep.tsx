@@ -3,7 +3,8 @@ import ProductCard from '../../components/ProductCard';
 import { money } from '../../brand';
 import { categoryContent, sectionProducts, sectionRepairs } from '../../lib/catalog';
 import { addLine, removeLine } from '../../lib/quotes';
-import type { Product, Quote, SectionDef } from '../../lib/types';
+import { JOB_SIZES, repairPrice, type JobSize } from '../../lib/repairPricing';
+import type { Product, Quote, RepairService, SectionDef } from '../../lib/types';
 
 /** Products of the same family (same brand + model) differ only by size. */
 const familyKey = (p: Product) => `${p.category}|${p.brand ?? ''}|${p.model ?? ''}`;
@@ -29,6 +30,7 @@ export default function SectionStep({
 }) {
   const [tab, setTab] = useState<'upgrades' | 'repairs'>('upgrades');
   const [chosenSize, setChosenSize] = useState<Record<string, string>>({});
+  const [jobSize, setJobSize] = useState<Record<string, JobSize>>({});
 
   const equipment = useMemo(() => sectionProducts(section), [section]);
   const repairs = useMemo(() => sectionRepairs(section), [section]);
@@ -54,28 +56,21 @@ export default function SectionStep({
     );
   };
 
-  const toggleRepair = (service: {
-    id: string;
-    service: string;
-    category: string;
-    priceFrom: number;
-    priceTo: number;
-    flatRate: boolean;
-    summary: string;
-  }) => {
+  const toggleRepair = (service: RepairService, category: string) => {
     if (picked.has(service.id)) {
       onChange(removeLine(quote, service.id));
       return;
     }
+    const size = jobSize[service.id] ?? 'Medium';
     onChange(
       addLine(quote, {
         id: service.id,
         kind: 'repair',
         sectionKey: section.key,
         name: service.service,
-        detail: `${service.category} repair · ${service.summary}`,
+        detail: `${category} repair · ${service.flatRate ? 'flat rate' : `${size} job`} · ${service.summary}`,
         qty: 1,
-        unitPrice: service.priceFrom,
+        unitPrice: repairPrice(service, size),
         regularPrice: null,
         image: null,
       })
@@ -186,30 +181,61 @@ export default function SectionStep({
                 <tr>
                   <th>Service</th>
                   <th>What is involved</th>
+                  <th>Job size</th>
                   <th className="num">Price</th>
                   <th />
                 </tr>
               </thead>
               <tbody>
-                {services.map((s) => (
-                  <tr key={s.id}>
-                    <td style={{ fontWeight: 700 }}>{s.service}</td>
-                    <td className="muted" style={{ fontSize: 14 }}>
-                      {s.summary}
-                    </td>
-                    <td className="num">
-                      {s.flatRate ? money(s.priceFrom) : `${money(s.priceFrom)} – ${money(s.priceTo)}`}
-                    </td>
-                    <td className="num">
-                      <button
-                        className={`btn sm${picked.has(s.id) ? '' : ' primary'}`}
-                        onClick={() => toggleRepair({ ...s, category })}
-                      >
-                        {picked.has(s.id) ? '✓ Added' : '+ Add'}
-                      </button>
-                    </td>
-                  </tr>
-                ))}
+                {services.map((s) => {
+                  const size = jobSize[s.id] ?? 'Medium';
+                  return (
+                    <tr key={s.id}>
+                      <td style={{ fontWeight: 700 }}>{s.service}</td>
+                      <td className="muted" style={{ fontSize: 14 }}>
+                        {s.summary}
+                      </td>
+                      <td>
+                        {s.flatRate ? (
+                          <span className="muted" style={{ fontSize: 13 }}>
+                            Flat rate
+                          </span>
+                        ) : (
+                          <select
+                            aria-label={`Job size for ${s.service}`}
+                            value={size}
+                            disabled={picked.has(s.id)}
+                            onChange={(e) =>
+                              setJobSize((m) => ({ ...m, [s.id]: e.target.value as JobSize }))
+                            }
+                          >
+                            {JOB_SIZES.map((j) => (
+                              <option key={j} value={j}>
+                                {j}
+                              </option>
+                            ))}
+                          </select>
+                        )}
+                      </td>
+                      <td className="num" style={{ fontWeight: 700 }}>
+                        {money(repairPrice(s, size))}
+                        {!s.flatRate && (
+                          <div className="muted" style={{ fontSize: 12, fontWeight: 400 }}>
+                            {money(s.priceFrom)} – {money(s.priceTo)}
+                          </div>
+                        )}
+                      </td>
+                      <td className="num">
+                        <button
+                          className={`btn sm${picked.has(s.id) ? '' : ' primary'}`}
+                          onClick={() => toggleRepair(s, category)}
+                        >
+                          {picked.has(s.id) ? '✓ Added' : '+ Add'}
+                        </button>
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </section>

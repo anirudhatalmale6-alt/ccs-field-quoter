@@ -30,16 +30,16 @@ export default function PublicQuote() {
   return (
     <div className="content" style={{ background: 'var(--bg)', minHeight: '100vh' }}>
       <div className="page">
-        <header className="card" style={{ display: 'flex', gap: 16, alignItems: 'center' }}>
-          <span className="logo-mark" style={{ width: 48, height: 48, fontSize: 15 }}>
-            {brand.initials}
-          </span>
+        <header className="card" style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
+          <img src={brand.logo} alt={brand.name} style={{ width: 128, height: 'auto' }} />
           <div>
             <div style={{ fontFamily: 'Sora, sans-serif', fontWeight: 800, fontSize: 19 }}>
               {brand.name}
             </div>
-            <div className="muted" style={{ fontSize: 13 }}>
-              {[brand.phone, brand.email, brand.website].filter(Boolean).join(' · ') || brand.tagline}
+            <div className="muted" style={{ fontSize: 13.5, lineHeight: 1.6 }}>
+              {[brand.phone, brand.email, brand.address, brand.website]
+                .filter(Boolean)
+                .join(' · ') || brand.tagline}
             </div>
           </div>
           <div className="spacer" />

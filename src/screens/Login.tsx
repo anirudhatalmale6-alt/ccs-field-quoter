@@ -67,6 +67,7 @@ export default function Login({
 
       <main className="login-main">
         <form className="login-card" onSubmit={submit}>
+          <img className="login-logo" src={brand.logo} alt={brand.name} />
           <div>
             <p className="eyebrow">Team quoter</p>
             <h2 style={{ fontSize: 30, margin: '6px 0 6px' }}>Welcome back.</h2>

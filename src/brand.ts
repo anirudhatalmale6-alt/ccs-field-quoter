@@ -8,20 +8,25 @@ export const brand = {
   initials: 'CCS',
   tagline: 'Home comfort, done properly.',
 
-  // shown on quotes and the public quote page — fill these in
-  phone: '',
-  email: '',
+  // shown on quotes and the public quote page
+  phone: '+1 647-385-7954',
+  email: 'heyitsali092@gmail.com',
   address: '',
   website: '',
 
-  // /logo.png in the public folder. Drop the real logo in and it appears everywhere.
+  /** Full lockup — login screen, quote header, customer-facing page. */
   logo: '/logo.png',
+  /** Shield only — sidebar and anywhere tight. */
+  logoMark: '/logo-mark.png',
 
   colors: {
-    accent: '#0F5A8F',
-    accent2: '#2E86C1',
-    accentRgb: '15, 90, 143',
+    // sampled straight out of the logo artwork
+    accent: '#002E69', // Canadian Comfort navy
+    accent2: '#2E6FE6',
+    accentRgb: '0, 46, 105',
     onAccent: '#FFFFFF',
+    /** the red from the wordmark — used sparingly, for emphasis */
+    brandRed: '#E01528',
     bg: '#F5F8FB',
     bg2: '#FFFFFF',
     panel: '#FFFFFF',
@@ -32,10 +37,10 @@ export const brand = {
     faint: 'rgba(13, 34, 51, 0.045)',
     track: 'rgba(13, 34, 51, 0.12)',
     good: '#12A15C',
-    warn: '#D7402B',
-    navBg: '#0C2233',
+    warn: '#E01528',
+    navBg: '#001C40',
     navText: '#E8EEF6',
-    navMuted: 'rgba(232, 238, 246, 0.55)',
+    navMuted: 'rgba(232, 238, 246, 0.6)',
   },
 
   /** Ontario HST. Change here if you quote in another province. */
@@ -67,6 +72,7 @@ export function applyBrandTheme(): void {
     '--nav-bg': c.navBg,
     '--nav-text': c.navText,
     '--nav-muted': c.navMuted,
+    '--brand-red': c.brandRed,
   };
   for (const [k, v] of Object.entries(vars)) r.style.setProperty(k, v);
 }

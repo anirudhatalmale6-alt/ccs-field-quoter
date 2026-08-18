@@ -9,6 +9,7 @@ import type { User } from '../../lib/auth';
 import HomeDetailsStep from './HomeDetailsStep';
 import SectionStep from './SectionStep';
 import SummaryStep from './SummaryStep';
+import InsulationStep from './InsulationStep';
 
 export interface StepDef {
   key: string;
@@ -86,7 +87,8 @@ export default function Wizard({ user }: { user: User }) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const section = sections.find((s) => s.key === step.key);
+  // attic insulation is measured, not picked from the catalogue
+  const section = step.key === 'insulation' ? undefined : sections.find((s) => s.key === step.key);
   const selectedCount = quote.lines.reduce((n, l) => n + l.qty, 0);
 
   return (
@@ -143,6 +145,7 @@ export default function Wizard({ user }: { user: User }) {
 
             <div>
               {step.key === 'property' && <HomeDetailsStep quote={quote} onChange={update} />}
+              {step.key === 'insulation' && <InsulationStep quote={quote} onChange={update} />}
               {section && <SectionStep key={section.key} section={section} quote={quote} onChange={update} />}
               {step.key === 'summary' && (
                 <SummaryStep quote={quote} onChange={update} user={user} />

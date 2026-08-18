@@ -1,5 +1,6 @@
 import { brand } from '../brand';
 import { defaultFinance } from './finance';
+import { defaultInsulation } from './insulation';
 import type { Customer, HomeDetails, Quote, QuoteLine, QuoteStatus } from './types';
 
 const KEY = 'ccs.quotes.v1';
@@ -16,7 +17,13 @@ const emit = () => listeners.forEach((l) => l());
 
 function read(): Quote[] {
   try {
-    return JSON.parse(localStorage.getItem(KEY) ?? '[]') as Quote[];
+    const raw = JSON.parse(localStorage.getItem(KEY) ?? '[]') as Quote[];
+    // quotes saved before a field existed still have to open cleanly
+    return raw.map((q) => ({
+      ...q,
+      insulation: q.insulation ?? { ...defaultInsulation },
+      finance: { ...defaultFinance, ...q.finance },
+    }));
   } catch {
     return [];
   }
@@ -74,6 +81,7 @@ export function newQuote(createdBy: string): Quote {
     discount: { kind: 'amount', value: 0 },
     taxRate: brand.taxRate,
     finance: { ...defaultFinance },
+    insulation: { ...defaultInsulation },
     booking: null,
     shareToken: token(),
   };

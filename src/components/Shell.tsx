@@ -9,17 +9,22 @@ function Logo() {
   return (
     <div className="sidebar-logo">
       {!broken ? (
-        <img src={brand.logo} alt={brand.name} onError={() => setBroken(true)} />
+        <img
+          className="sidebar-mark"
+          src={brand.logoMark}
+          alt=""
+          onError={() => setBroken(true)}
+        />
       ) : (
-        <>
-          <span className="logo-mark">{brand.initials}</span>
-          <span>
-            {brand.name.split(' ').slice(0, 2).join(' ')}
-            <br />
-            {brand.name.split(' ').slice(2).join(' ')}
-          </span>
-        </>
+        <span className="logo-mark">{brand.initials}</span>
       )}
+      <span>
+        Canadian
+        <br />
+        <em>Comfort</em>
+        <br />
+        Solutions
+      </span>
     </div>
   );
 }

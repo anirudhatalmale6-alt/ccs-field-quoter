@@ -133,6 +133,7 @@ export interface Quote {
   discount: { kind: 'amount' | 'percent'; value: number };
   taxRate: number;
   finance: import('./finance').FinanceInput;
+  insulation: import('./insulation').InsulationState;
   /** set when the customer finalises; drives the schedule board */
   booking: { date: string; slot: string; notes: string } | null;
   shareToken: string;

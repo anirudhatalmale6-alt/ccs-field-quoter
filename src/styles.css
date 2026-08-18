@@ -222,9 +222,15 @@ textarea:focus {
   font-size: 15px;
 }
 
-.sidebar-logo img {
-  max-width: 150px;
-  max-height: 44px;
+.sidebar-logo .sidebar-mark {
+  width: 46px;
+  height: auto;
+  flex: none;
+}
+
+.sidebar-logo em {
+  font-style: normal;
+  color: var(--brand-red);
 }
 
 .logo-mark {
@@ -824,6 +830,12 @@ tr:last-child td {
   display: grid;
   place-items: center;
   padding: 40px;
+}
+
+.login-logo {
+  width: 190px;
+  height: auto;
+  align-self: center;
 }
 
 .login-card {
