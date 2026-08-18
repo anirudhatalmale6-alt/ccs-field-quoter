@@ -9,6 +9,7 @@ import QuotesPipeline from './screens/QuotesPipeline';
 import Schedule from './screens/Schedule';
 import CatalogAdmin from './screens/CatalogAdmin';
 import FinanceCalculator from './screens/FinanceCalculator';
+import ManageUsers from './screens/ManageUsers';
 import Wizard from './screens/wizard/Wizard';
 import PublicQuote from './screens/PublicQuote';
 
@@ -45,6 +46,7 @@ export default function App() {
           <Route path="/schedule" element={<Schedule />} />
           <Route path="/financing" element={<FinanceCalculator />} />
           <Route path="/catalog" element={<CatalogAdmin user={user!} />} />
+          <Route path="/team" element={<ManageUsers user={user!} />} />
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>

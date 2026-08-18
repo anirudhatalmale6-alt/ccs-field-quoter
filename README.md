@@ -26,6 +26,7 @@ First sign-in is `admin` / `admin`. Change it before you go live.
 | Schedule | Week board — every finalised quote lands here with its arrival window |
 | Financing | Standalone rate calculator |
 | Product catalogue | Add, edit, remove products and prices. Import/export as JSON |
+| Team | Add staff, set their password and role, see what each role can do |
 
 ## The pieces worth knowing about
 
@@ -64,7 +65,9 @@ needs to change.
 
 ### `src/lib/auth.ts`
 
-Three roles:
+Three roles. Manage people under **Team** in the sidebar (admin only). The
+permission check runs both on the sidebar link and inside the screen itself, so
+typing the URL in directly doesn't get anyone past it.
 
 | Role | Create quotes | See everyone's quotes | Schedule | Edit catalogue | Manage users |
 | --- | --- | --- | --- | --- | --- |

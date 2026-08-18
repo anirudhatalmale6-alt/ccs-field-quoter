@@ -62,6 +62,7 @@ export default function Shell({ user, onSignOut }: { user: User; onSignOut: () =
           <span className="nav-label">Tools</span>
           <NavLink to="/financing">Financing</NavLink>
           {can(user, 'catalog.edit') && <NavLink to="/catalog">Product catalogue</NavLink>}
+          {can(user, 'users.manage') && <NavLink to="/team">Team</NavLink>}
         </nav>
 
         <div className="sidebar-user">

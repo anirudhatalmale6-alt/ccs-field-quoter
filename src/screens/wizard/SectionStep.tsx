@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import ProductCard from '../../components/ProductCard';
+import BatterySavingsPanel from '../../components/BatterySavingsPanel';
 import { money } from '../../brand';
 import { categoryContent, sectionProducts, sectionRepairs } from '../../lib/catalog';
 import { addLine, removeLine } from '../../lib/quotes';
@@ -119,6 +120,8 @@ export default function SectionStep({
           catalogue and they will appear here automatically.
         </div>
       )}
+
+      {tab === 'upgrades' && section.key === 'battery' && <BatterySavingsPanel />}
 
       {tab === 'upgrades' &&
         equipment.map(({ category, products }) => {
