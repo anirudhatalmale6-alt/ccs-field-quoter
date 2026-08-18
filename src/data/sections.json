@@ -1,0 +1,106 @@
+[
+  {
+    "key": "waterHeaters",
+    "label": "Water Heaters",
+    "icon": "🚿",
+    "intro": "Tank and tankless water heater upgrades — endless hot water, lower bills.",
+    "equipment": [
+      "Water Heater",
+      "Tankless Water Heater"
+    ],
+    "repairs": [
+      "Water Heater",
+      "Tankless Water Heater"
+    ]
+  },
+  {
+    "key": "heating",
+    "label": "Heating Upgrades",
+    "icon": "🔥",
+    "intro": "High-efficiency furnace upgrades.",
+    "equipment": [
+      "Furnace"
+    ],
+    "repairs": [
+      "Furnace"
+    ]
+  },
+  {
+    "key": "cooling",
+    "label": "AC & Heat Pumps",
+    "icon": "❄️",
+    "intro": "Central air, ducted heat pumps, and ductless mini-splits.",
+    "equipment": [
+      "Air Conditioner",
+      "Heat Pump",
+      "Ductless Heat Pump"
+    ],
+    "repairs": [
+      "Air Conditioner",
+      "Heat Pump"
+    ],
+    "groups": [
+      {
+        "key": "ac",
+        "label": "Air Conditioners",
+        "equipment": [
+          "Air Conditioner"
+        ],
+        "repairs": [
+          "Air Conditioner"
+        ]
+      },
+      {
+        "key": "hp",
+        "label": "Heat Pumps",
+        "equipment": [
+          "Heat Pump",
+          "Ductless Heat Pump"
+        ],
+        "repairs": [
+          "Heat Pump"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "insulation",
+    "label": "Attic Insulation",
+    "icon": "🏠",
+    "intro": "Top up the attic to R-60 — 20-23 inches of fiberglass for year-round comfort.",
+    "equipment": [],
+    "repairs": []
+  },
+  {
+    "key": "airQuality",
+    "label": "Air Purification",
+    "icon": "🌫️",
+    "intro": "Whole-home air quality — air cleaners, UV purification, and humidifiers.",
+    "equipment": [
+      "Air Purifier",
+      "Humidifier"
+    ],
+    "repairs": []
+  },
+  {
+    "key": "waterPurification",
+    "label": "Water Purification",
+    "icon": "🧪",
+    "intro": "Water softeners and reverse-osmosis drinking-water systems.",
+    "equipment": [
+      "Water Softener",
+      "Reverse Osmosis"
+    ],
+    "repairs": []
+  },
+  {
+    "key": "battery",
+    "label": "Battery Storage",
+    "icon": "🔋",
+    "intro": "Battery backup — ride out outages and shift usage off peak rates.",
+    "equipment": [
+      "Battery Backup"
+    ],
+    "repairs": []
+  }
+]

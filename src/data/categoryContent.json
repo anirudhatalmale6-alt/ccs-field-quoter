@@ -1,0 +1,107 @@
+{
+  "Air Conditioner": {
+    "summary": "High-efficiency central air conditioning, sized to your home and installed by licensed HVAC technicians.",
+    "scope": [
+      "Remove and dispose of the existing condenser and indoor coil",
+      "Set the new outdoor unit on a level pad with code clearances",
+      "Install a matched evaporator coil; braze and pressure-test the line set",
+      "Evacuate, weigh in refrigerant, and verify superheat/subcooling",
+      "Commission the system and confirm cooling performance"
+    ]
+  },
+  "Furnace": {
+    "summary": "High-efficiency gas furnace supply and installation, vented and commissioned to manufacturer and code requirements.",
+    "scope": [
+      "Disconnect and remove the existing furnace",
+      "Set the new furnace and connect supply/return plenums",
+      "Run and terminate intake/exhaust venting to code",
+      "Connect gas, electrical, and condensate; verify gas pressure",
+      "Start up, set temperature rise, and confirm safe combustion"
+    ]
+  },
+  "Humidifier": {
+    "summary": "Whole-home bypass humidifier integrated with your furnace for balanced winter comfort.",
+    "scope": [
+      "Mount the humidifier to the supply or return plenum",
+      "Connect water supply, drain, and humidistat",
+      "Wire to the furnace and set the target humidity",
+      "Test the fill/drain cycle and confirm operation"
+    ]
+  },
+  "Smart Thermostat": {
+    "summary": "Smart Wi-Fi thermostat with scheduling and remote control, professionally installed and configured.",
+    "scope": [
+      "Remove the old thermostat and verify wiring/C-wire",
+      "Mount and connect the new smart thermostat",
+      "Configure equipment type, Wi-Fi, and app pairing",
+      "Test heating/cooling calls and confirm operation"
+    ]
+  },
+  "Water Heater": {
+    "summary": "Tank water heater supply and installation with code-compliant venting and connections.",
+    "scope": [
+      "Drain and remove the old water heater",
+      "Set the new tank and connect water, gas, and venting",
+      "Install a new T&P relief valve and expansion tank as required",
+      "Fill, purge air, and check for leaks",
+      "Light/commission and confirm hot-water delivery"
+    ]
+  },
+  "Tankless Water Heater": {
+    "summary": "On-demand tankless water heater for endless hot water and lower standby losses, installed to spec.",
+    "scope": [
+      "Remove the existing unit and prepare gas, water, and venting",
+      "Mount the tankless unit and run concentric/stainless venting to code",
+      "Upsize gas line and add isolation/service valves as required",
+      "Connect, purge, and configure temperature settings",
+      "Commission and verify flow rate and combustion"
+    ]
+  },
+  "Water Softener": {
+    "summary": "Whole-home water softener to reduce hardness, scale, and spotting, installed and commissioned.",
+    "scope": [
+      "Install the softener and bypass valve on the main line",
+      "Connect inlet/outlet plumbing and the drain line",
+      "Load media/brine and program the regeneration cycle",
+      "Pressure-test, sanitize, and confirm soft-water output"
+    ]
+  },
+  "Reverse Osmosis": {
+    "summary": "Under-sink reverse-osmosis drinking water system for clean, great-tasting water.",
+    "scope": [
+      "Install the RO manifold, membrane, and storage tank",
+      "Tee into the cold supply and add a dedicated faucet",
+      "Connect the drain saddle and flush the membrane",
+      "Pressure-test and check for leaks",
+      "Sanitize and confirm water quality/flow"
+    ]
+  },
+  "Heat Pump": {
+    "summary": "Energy-efficient ducted heat pump for year-round heating and cooling, professionally sized and installed.",
+    "scope": [
+      "Remove existing equipment and prepare the install location",
+      "Set the outdoor heat pump and matched indoor coil/air handler",
+      "Braze, pressure-test, and evacuate the refrigerant circuit",
+      "Configure defrost/auxiliary heat and verify both modes",
+      "Commission and confirm heating and cooling performance"
+    ]
+  },
+  "Battery Backup": {
+    "summary": "Home battery backup that stores low-cost off-peak power for outages and to cut expensive peak-hour usage.",
+    "scope": [
+      "Mount the battery and inverter and tie into the electrical panel",
+      "Wire backup/transfer circuits for the protected loads",
+      "Configure charging for off-peak / time-of-use savings",
+      "Commission, test backup transfer, and verify monitoring"
+    ]
+  },
+  "Air Purifier": {
+    "summary": "Whole-home air purification installed in the ductwork to capture airborne particles and improve indoor air quality.",
+    "scope": [
+      "Install the air-cleaning unit at the furnace/air handler return",
+      "Wire the unit to run with the system blower",
+      "Seal duct connections and verify airflow",
+      "Test operation and review maintenance with the homeowner"
+    ]
+  }
+}

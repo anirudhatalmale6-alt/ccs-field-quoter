@@ -1,0 +1,1 @@
+Estimates for a typical Ontario/GTA home: cooling over the May–Aug season (~500 full-load hours) at ~$0.18/kWh summer on/mid-peak; gas heating ≈$1,250/yr at 100% efficiency for a ~90k BTU furnace (scaled by capacity); water heating ≈$250/yr at UEF 1.0; heat-pump heating at $0.122/kWh. For comparison only.

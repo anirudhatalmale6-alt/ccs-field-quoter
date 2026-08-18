@@ -1,0 +1,7172 @@
+[
+  {
+    "id": "air-conditioner-lennox-ml14xc1-1-5-ton-1",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 5000,
+    "costPrice": 3800,
+    "salePrice": 4200,
+    "quotePrice": 4200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 101,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-2-ton-2",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 5300,
+    "costPrice": 4100,
+    "salePrice": 4500,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 135,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-2-5-ton-3",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 5600,
+    "costPrice": 4400,
+    "salePrice": 4800,
+    "quotePrice": 4800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 169,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-3-ton-4",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 5900,
+    "costPrice": 4700,
+    "salePrice": 5100,
+    "quotePrice": 5100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 203,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-3-5-ton-5",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 6300,
+    "costPrice": 5100,
+    "salePrice": 5500,
+    "quotePrice": 5500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 236,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-4-ton-6",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 6900,
+    "costPrice": 5700,
+    "salePrice": 6100,
+    "quotePrice": 6100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 270,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14xc1-5-ton-7",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14XC1",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 7400,
+    "costPrice": 6200,
+    "salePrice": 6600,
+    "quotePrice": 6600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER",
+        "value": 16,
+        "label": "Up to 16 SEER"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "ENERGY STAR\u00ae certified single-stage cooling",
+        "Sound-dampened scroll compressor \u2014 as low as 73 dBA",
+        "Precision-balanced direct-drive fan",
+        "Corrosion-tested coastal-grade cabinet"
+      ],
+      "cons": [
+        "Single-stage \u2014 cycles fully on/off rather than ramping",
+        "Louder than inverter-driven systems",
+        "No published SEER2 (older SEER rating)"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quiet for single-stage \u2014 from 73 dBA",
+          "Steady one-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 338,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 Up to 16 SEER"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14XC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 5800,
+    "costPrice": 4400,
+    "salePrice": 4900,
+    "quotePrice": 4900,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 112,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 6100,
+    "costPrice": 4800,
+    "salePrice": 5200,
+    "quotePrice": 5200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 149,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 6500,
+    "costPrice": 5100,
+    "salePrice": 5600,
+    "quotePrice": 5600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 186,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 6800,
+    "costPrice": 5500,
+    "salePrice": 5900,
+    "quotePrice": 5900,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 223,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 7300,
+    "costPrice": 5900,
+    "salePrice": 6400,
+    "quotePrice": 6400,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 261,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 8000,
+    "costPrice": 6600,
+    "salePrice": 7100,
+    "quotePrice": 7100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 298,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-ml14kc1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "ML14KC1",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 8600,
+    "costPrice": 7200,
+    "salePrice": 7600,
+    "quotePrice": 7600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/0127c171d9/ml14xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "Up to 14.5 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Reliable single-stage cooling \u2014 a dependable, budget-friendly AC",
+        "Quiet scroll compressor",
+        "Durable galvanized-steel, powder-coated cabinet",
+        "Meets current SEER2 efficiency standards"
+      ],
+      "cons": [
+        "Single-stage \u2014 full on/off cycling, more temperature swing",
+        "Less efficient and louder than two-stage/variable models"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Best for milder cooling needs"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 372,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 Up to 14.5 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML14KC1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 7000,
+    "costPrice": 5400,
+    "salePrice": 5900,
+    "quotePrice": 5900,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 101,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 7500,
+    "costPrice": 5800,
+    "salePrice": 6300,
+    "quotePrice": 6300,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 135,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 7900,
+    "costPrice": 6200,
+    "salePrice": 6800,
+    "quotePrice": 6800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 169,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 8300,
+    "costPrice": 6600,
+    "salePrice": 7200,
+    "quotePrice": 7200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 203,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 8900,
+    "costPrice": 7200,
+    "salePrice": 7700,
+    "quotePrice": 7700,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 236,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 9700,
+    "costPrice": 8000,
+    "salePrice": 8600,
+    "quotePrice": 8600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 270,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el16kv1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL16KV1",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 10400,
+    "costPrice": 8700,
+    "salePrice": 9300,
+    "quotePrice": 9300,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16,
+        "label": "Up to 16 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Higher-efficiency Elite single-stage \u2014 lower bills than the Merit ML series",
+        "Quieter operation and a better-built, sound-dampened cabinet",
+        "ENERGY STAR\u00ae qualified",
+        "Step up in efficiency without the variable-speed price"
+      ],
+      "cons": [
+        "Still single-stage \u2014 not as even as two-stage/variable",
+        "Costs more than the Merit ML14"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Quieter than Merit single-stage",
+          "One-speed cooling"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 338,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 Up to 16 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL16KV1"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 8000,
+    "costPrice": 6100,
+    "salePrice": 6800,
+    "quotePrice": 6800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 90,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 8500,
+    "costPrice": 6600,
+    "salePrice": 7200,
+    "quotePrice": 7200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 120,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 9000,
+    "costPrice": 7100,
+    "salePrice": 7700,
+    "quotePrice": 7700,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 150,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 9500,
+    "costPrice": 7600,
+    "salePrice": 8200,
+    "quotePrice": 8200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 180,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 10100,
+    "costPrice": 8200,
+    "salePrice": 8800,
+    "quotePrice": 8800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 210,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 11100,
+    "costPrice": 9200,
+    "salePrice": 9800,
+    "quotePrice": 9800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 240,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-el18kcv-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "EL18KCV",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 11900,
+    "costPrice": 10000,
+    "salePrice": 10600,
+    "quotePrice": 10600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/307b9c1fc7/el16xc1-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 18,
+        "label": "Up to 18 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Two-stage cooling \u2014 runs on low most of the time for steadier temps and better humidity control",
+        "Up to 18 SEER2 high efficiency \u2014 lower running cost",
+        "Quieter than single-stage on the low stage",
+        "Stronger dehumidification for muggy summers"
+      ],
+      "cons": [
+        "Costs more than single-stage ACs",
+        "Not fully variable like the SL25 Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage avoids hot/cold swings",
+          "Better humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 300,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 Up to 18 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL18KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 10300,
+    "costPrice": 7800,
+    "salePrice": 8700,
+    "quotePrice": 8700,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 65,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 10900,
+    "costPrice": 8500,
+    "salePrice": 9300,
+    "quotePrice": 9300,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 86,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 11500,
+    "costPrice": 9100,
+    "salePrice": 9900,
+    "quotePrice": 9900,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 108,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 12100,
+    "costPrice": 9700,
+    "salePrice": 10500,
+    "quotePrice": 10500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 130,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 13000,
+    "costPrice": 10500,
+    "salePrice": 11300,
+    "quotePrice": 11300,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 151,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 14200,
+    "costPrice": 11700,
+    "salePrice": 12600,
+    "quotePrice": 12600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 173,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-lennox-sl25kcv-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Lennox",
+    "model": "SL25KCV",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 15200,
+    "costPrice": 12800,
+    "salePrice": 13600,
+    "quotePrice": 13600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/f0c9d58fac/sl28xcv-prod.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 25,
+        "label": "Up to 25 SEER2"
+      },
+      "warranty": "10-yr compressor / 10-yr parts (registered)",
+      "features": [
+        "Variable-capacity (inverter) cooling \u2014 ramps in fine steps to hold a near-constant temperature",
+        "Up to 25 SEER2 \u2014 the most efficient, lowest running cost in the lineup",
+        "Ultra-quiet \u2014 as low as ~59 dB on low speed",
+        "Best dehumidification and the most even comfort"
+      ],
+      "cons": [
+        "Highest upfront price of the AC lineup",
+        "Premium features are more than a basic cooling need"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-capacity holds temperature within ~0.5\u00b0",
+          "Ultra-quiet with excellent humidity control"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 216,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 Up to 25 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SL25KCV"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 4700,
+    "costPrice": 3500,
+    "salePrice": 3900,
+    "quotePrice": 3900,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 4900,
+    "costPrice": 3700,
+    "salePrice": 4100,
+    "quotePrice": 4100,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 5200,
+    "costPrice": 4000,
+    "salePrice": 4400,
+    "quotePrice": 4400,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 5500,
+    "costPrice": 4300,
+    "salePrice": 4700,
+    "quotePrice": 4700,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 6000,
+    "costPrice": 4800,
+    "salePrice": 5200,
+    "quotePrice": 5200,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 6500,
+    "costPrice": 5300,
+    "salePrice": 5700,
+    "quotePrice": 5700,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-midea-4ac16-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Midea",
+    "model": "4AC16",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 7100,
+    "costPrice": 5900,
+    "salePrice": 6300,
+    "quotePrice": 6300,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": null,
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Midea"
+      },
+      {
+        "label": "Model",
+        "value": "4AC16"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-1-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 5300,
+    "costPrice": 4100,
+    "salePrice": 4500,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 112,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 1.5 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-2-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 5600,
+    "costPrice": 4400,
+    "salePrice": 4800,
+    "quotePrice": 4800,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 149,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-2-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 5950,
+    "costPrice": 4750,
+    "salePrice": 5150,
+    "quotePrice": 5150,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 186,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 2.5 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-3-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 6250,
+    "costPrice": 5050,
+    "salePrice": 5450,
+    "quotePrice": 5450,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 223,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-3-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 6700,
+    "costPrice": 5500,
+    "salePrice": 5900,
+    "quotePrice": 5900,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 261,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-4-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 7350,
+    "costPrice": 6150,
+    "salePrice": 6550,
+    "quotePrice": 6550,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 298,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 4 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-carrier-ga4san-5-ton",
+    "category": "Air Conditioner",
+    "brand": "Carrier",
+    "model": "GA4SAN",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 7900,
+    "costPrice": 6700,
+    "salePrice": 7100,
+    "quotePrice": 7100,
+    "needsManualPrice": false,
+    "image": "https://images.carriercms.com/image/upload/w_auto,c_lfill,q_auto,f_auto/v1739906493/carrier/residential-hvac/products/air-conditioners/infinity-variable-speed-ac-unit-26vna1.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "13.4\u201316.0 SEER2"
+      },
+      "soundDb": 73,
+      "warranty": "10-yr parts (registered)",
+      "features": [
+        "Proven Carrier reliability \u2014 Puron\u00ae scroll compressor",
+        "Quiet by size \u2014 73\u201376 dBA sound power",
+        "Internal pressure relief & thermal overload protection",
+        "Dense wire coil guard, durable sheet-metal cabinet"
+      ],
+      "cons": [
+        "Entry-tier Carrier \u2014 fewer comfort features than Infinity/Performance",
+        "Single-stage on/off cycling",
+        "Up to 76 dBA on the largest sizes"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady one-speed cooling",
+          "Quiet for single-stage \u2014 from 73 dBA"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 372,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 5 ton \u00b7 13.4\u201316.0 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "GA4SAN"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-trane-4ttr-3-ton-22",
+    "category": "Air Conditioner",
+    "brand": "Trane",
+    "model": "4TTR",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 6100,
+    "costPrice": 4900,
+    "salePrice": 5300,
+    "quotePrice": 5300,
+    "needsManualPrice": false,
+    "image": "/product-images/trane-xr-series.webp",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.8,
+        "label": "Up to 14.8 SEER2"
+      },
+      "soundDb": 71,
+      "ratingOverride": {
+        "efficiency": 3,
+        "price": 2
+      },
+      "warranty": "10-yr compressor & parts (registered)",
+      "features": [
+        "Legendary Trane Climatuff\u00ae compressor",
+        "Quiet operation \u2014 from 71 dBA",
+        "DuraTuff\u2122 rust-proof base pan",
+        "Full-side louvered coil protection"
+      ],
+      "cons": [
+        "Lowest efficiency rating in its class (14.8 SEER2)",
+        "Premium price for the brand name",
+        "Single-stage on/off cycling"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Quietest single-stage here \u2014 from 71 dBA",
+          "Climatuff\u00ae compressor smoothness"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 219,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3 ton \u00b7 Up to 14.8 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Trane"
+      },
+      {
+        "label": "Model",
+        "value": "4TTR"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "air-conditioner-trane-4ttr-3-5-ton-23",
+    "category": "Air Conditioner",
+    "brand": "Trane",
+    "model": "4TTR",
+    "size": "3.5 Ton",
+    "unit": "ton",
+    "value": 3.5,
+    "regularPrice": 6600,
+    "costPrice": 5400,
+    "salePrice": 5800,
+    "quotePrice": 5800,
+    "needsManualPrice": false,
+    "image": "/product-images/trane-xr-series.webp",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.8,
+        "label": "Up to 14.8 SEER2"
+      },
+      "soundDb": 71,
+      "ratingOverride": {
+        "efficiency": 3,
+        "price": 2
+      },
+      "warranty": "10-yr compressor & parts (registered)",
+      "features": [
+        "Legendary Trane Climatuff\u00ae compressor",
+        "Quiet operation \u2014 from 71 dBA",
+        "DuraTuff\u2122 rust-proof base pan",
+        "Full-side louvered coil protection"
+      ],
+      "cons": [
+        "Lowest efficiency rating in its class (14.8 SEER2)",
+        "Premium price for the brand name",
+        "Single-stage on/off cycling"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Quietest single-stage here \u2014 from 71 dBA",
+          "Climatuff\u00ae compressor smoothness"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 255,
+      "basis": "cooling \u00b7 May\u2013Aug \u00b7 3.5 ton \u00b7 Up to 14.8 SEER2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Conditioner"
+      },
+      {
+        "label": "Brand",
+        "value": "Trane"
+      },
+      {
+        "label": "Model",
+        "value": "4TTR"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml196-45-000-btu-25",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML196",
+    "size": "45,000 BTU",
+    "unit": "btu",
+    "value": 45000,
+    "regularPrice": 5000,
+    "costPrice": 3800,
+    "salePrice": 4200,
+    "quotePrice": 4200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/d346054110/ml196e-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "ENERGY STAR\u00ae 96% efficiency \u2014 96\u00a2 of every fuel dollar becomes heat",
+        "Single-stage with constant-torque blower",
+        "SilentComfort\u2122-derived insulated cabinet",
+        "Dual-fuel ready with a Lennox heat pump"
+      ],
+      "cons": [
+        "Single heat output \u2014 full blast or off",
+        "More noticeable temperature swings and fan noise than two-stage"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady single-stage heat",
+          "Full-blast cycles \u2014 more noticeable on/off"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 651,
+      "basis": "heating \u00b7 45k BTU \u00b7 96% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML196"
+      },
+      {
+        "label": "Capacity",
+        "value": "45,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml196-70-000-btu-26",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML196",
+    "size": "70,000 BTU",
+    "unit": "btu",
+    "value": 70000,
+    "regularPrice": 5300,
+    "costPrice": 4100,
+    "salePrice": 4500,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/d346054110/ml196e-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "ENERGY STAR\u00ae 96% efficiency \u2014 96\u00a2 of every fuel dollar becomes heat",
+        "Single-stage with constant-torque blower",
+        "SilentComfort\u2122-derived insulated cabinet",
+        "Dual-fuel ready with a Lennox heat pump"
+      ],
+      "cons": [
+        "Single heat output \u2014 full blast or off",
+        "More noticeable temperature swings and fan noise than two-stage"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady single-stage heat",
+          "Full-blast cycles \u2014 more noticeable on/off"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1013,
+      "basis": "heating \u00b7 70k BTU \u00b7 96% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML196"
+      },
+      {
+        "label": "Capacity",
+        "value": "70,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml196-90-000-btu-27",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML196",
+    "size": "90,000 BTU",
+    "unit": "btu",
+    "value": 90000,
+    "regularPrice": 5600,
+    "costPrice": 4400,
+    "salePrice": 4800,
+    "quotePrice": 4800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/d346054110/ml196e-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "ENERGY STAR\u00ae 96% efficiency \u2014 96\u00a2 of every fuel dollar becomes heat",
+        "Single-stage with constant-torque blower",
+        "SilentComfort\u2122-derived insulated cabinet",
+        "Dual-fuel ready with a Lennox heat pump"
+      ],
+      "cons": [
+        "Single heat output \u2014 full blast or off",
+        "More noticeable temperature swings and fan noise than two-stage"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady single-stage heat",
+          "Full-blast cycles \u2014 more noticeable on/off"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1302,
+      "basis": "heating \u00b7 90k BTU \u00b7 96% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML196"
+      },
+      {
+        "label": "Capacity",
+        "value": "90,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml196-110-000-btu-28",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML196",
+    "size": "110,000 BTU",
+    "unit": "btu",
+    "value": 110000,
+    "regularPrice": 5900,
+    "costPrice": 4700,
+    "salePrice": 5100,
+    "quotePrice": 5100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/d346054110/ml196e-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "ENERGY STAR\u00ae 96% efficiency \u2014 96\u00a2 of every fuel dollar becomes heat",
+        "Single-stage with constant-torque blower",
+        "SilentComfort\u2122-derived insulated cabinet",
+        "Dual-fuel ready with a Lennox heat pump"
+      ],
+      "cons": [
+        "Single heat output \u2014 full blast or off",
+        "More noticeable temperature swings and fan noise than two-stage"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady single-stage heat",
+          "Full-blast cycles \u2014 more noticeable on/off"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1591,
+      "basis": "heating \u00b7 110k BTU \u00b7 96% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML196"
+      },
+      {
+        "label": "Capacity",
+        "value": "110,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml196-135-000-btu-29",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML196",
+    "size": "135,000 BTU",
+    "unit": "btu",
+    "value": 135000,
+    "regularPrice": 6300,
+    "costPrice": 5100,
+    "salePrice": 5500,
+    "quotePrice": 5500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/d346054110/ml196e-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "ENERGY STAR\u00ae 96% efficiency \u2014 96\u00a2 of every fuel dollar becomes heat",
+        "Single-stage with constant-torque blower",
+        "SilentComfort\u2122-derived insulated cabinet",
+        "Dual-fuel ready with a Lennox heat pump"
+      ],
+      "cons": [
+        "Single heat output \u2014 full blast or off",
+        "More noticeable temperature swings and fan noise than two-stage"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Steady single-stage heat",
+          "Full-blast cycles \u2014 more noticeable on/off"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1953,
+      "basis": "heating \u00b7 135k BTU \u00b7 96% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML196"
+      },
+      {
+        "label": "Capacity",
+        "value": "135,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml296-45-000-btu-31",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML296",
+    "size": "45,000 BTU",
+    "unit": "btu",
+    "value": 45000,
+    "regularPrice": 5600,
+    "costPrice": 4400,
+    "salePrice": 4800,
+    "quotePrice": 4800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/afd1060aae/ml296v-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Two-stage heat \u2014 runs low and quiet most of the season",
+        "Variable-speed ECM blower for even temperatures",
+        "Noticeably quieter than single-stage furnaces",
+        "Smoother temperature swings, better dehumidification with AC"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML196",
+        "Same 96% AFUE as the ML196 \u2014 the upgrade buys comfort, not fuel savings"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Runs long, low, and quiet most of the winter",
+          "Variable-speed blower erases hot/cold spots"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 651,
+      "basis": "heating \u00b7 45k BTU \u00b7 96% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML296"
+      },
+      {
+        "label": "Capacity",
+        "value": "45,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml296-70-000-btu-32",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML296",
+    "size": "70,000 BTU",
+    "unit": "btu",
+    "value": 70000,
+    "regularPrice": 6000,
+    "costPrice": 4800,
+    "salePrice": 5200,
+    "quotePrice": 5200,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/afd1060aae/ml296v-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Two-stage heat \u2014 runs low and quiet most of the season",
+        "Variable-speed ECM blower for even temperatures",
+        "Noticeably quieter than single-stage furnaces",
+        "Smoother temperature swings, better dehumidification with AC"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML196",
+        "Same 96% AFUE as the ML196 \u2014 the upgrade buys comfort, not fuel savings"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Runs long, low, and quiet most of the winter",
+          "Variable-speed blower erases hot/cold spots"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1013,
+      "basis": "heating \u00b7 70k BTU \u00b7 96% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML296"
+      },
+      {
+        "label": "Capacity",
+        "value": "70,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml296-90-000-btu-33",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML296",
+    "size": "90,000 BTU",
+    "unit": "btu",
+    "value": 90000,
+    "regularPrice": 6400,
+    "costPrice": 5200,
+    "salePrice": 5600,
+    "quotePrice": 5600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/afd1060aae/ml296v-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Two-stage heat \u2014 runs low and quiet most of the season",
+        "Variable-speed ECM blower for even temperatures",
+        "Noticeably quieter than single-stage furnaces",
+        "Smoother temperature swings, better dehumidification with AC"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML196",
+        "Same 96% AFUE as the ML196 \u2014 the upgrade buys comfort, not fuel savings"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Runs long, low, and quiet most of the winter",
+          "Variable-speed blower erases hot/cold spots"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1302,
+      "basis": "heating \u00b7 90k BTU \u00b7 96% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML296"
+      },
+      {
+        "label": "Capacity",
+        "value": "90,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-ml296-110-000-btu-34",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "ML296",
+    "size": "110,000 BTU",
+    "unit": "btu",
+    "value": 110000,
+    "regularPrice": 6700,
+    "costPrice": 5500,
+    "salePrice": 5900,
+    "quotePrice": 5900,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/afd1060aae/ml296v-prod.png",
+    "source": "baseline-price",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96,
+        "label": "96% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Two-stage heat \u2014 runs low and quiet most of the season",
+        "Variable-speed ECM blower for even temperatures",
+        "Noticeably quieter than single-stage furnaces",
+        "Smoother temperature swings, better dehumidification with AC"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML196",
+        "Same 96% AFUE as the ML196 \u2014 the upgrade buys comfort, not fuel savings"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Runs long, low, and quiet most of the winter",
+          "Variable-speed blower erases hot/cold spots"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1591,
+      "basis": "heating \u00b7 110k BTU \u00b7 96% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "ML296"
+      },
+      {
+        "label": "Capacity",
+        "value": "110,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-el297-45-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "EL297",
+    "size": "45,000 BTU",
+    "unit": "btu",
+    "value": 45000,
+    "regularPrice": 7600,
+    "costPrice": 6000,
+    "salePrice": 6500,
+    "quotePrice": 6500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/82574e95dd/el296v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 97,
+        "label": "Up to 97% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger (registered)",
+      "features": [
+        "Two-stage burner \u2014 runs on low most of the time for steadier heat and lower bills",
+        "Variable-speed blower for quiet, even airflow and better filtration",
+        "Up to 97% AFUE high-efficiency condensing gas",
+        "Quieter and more comfortable than the single-stage ML296"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML296",
+        "Not fully modulating like the SLP99V Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage heat avoids big temperature swings",
+          "Variable-speed blower = quiet, even airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 644,
+      "basis": "heating \u00b7 45k BTU \u00b7 Up to 97% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL297"
+      },
+      {
+        "label": "Capacity",
+        "value": "45,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-el297-70-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "EL297",
+    "size": "70,000 BTU",
+    "unit": "btu",
+    "value": 70000,
+    "regularPrice": 8100,
+    "costPrice": 6500,
+    "salePrice": 7100,
+    "quotePrice": 7100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/82574e95dd/el296v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 97,
+        "label": "Up to 97% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger (registered)",
+      "features": [
+        "Two-stage burner \u2014 runs on low most of the time for steadier heat and lower bills",
+        "Variable-speed blower for quiet, even airflow and better filtration",
+        "Up to 97% AFUE high-efficiency condensing gas",
+        "Quieter and more comfortable than the single-stage ML296"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML296",
+        "Not fully modulating like the SLP99V Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage heat avoids big temperature swings",
+          "Variable-speed blower = quiet, even airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1002,
+      "basis": "heating \u00b7 70k BTU \u00b7 Up to 97% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL297"
+      },
+      {
+        "label": "Capacity",
+        "value": "70,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-el297-90-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "EL297",
+    "size": "90,000 BTU",
+    "unit": "btu",
+    "value": 90000,
+    "regularPrice": 8700,
+    "costPrice": 7100,
+    "salePrice": 7600,
+    "quotePrice": 7600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/82574e95dd/el296v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 97,
+        "label": "Up to 97% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger (registered)",
+      "features": [
+        "Two-stage burner \u2014 runs on low most of the time for steadier heat and lower bills",
+        "Variable-speed blower for quiet, even airflow and better filtration",
+        "Up to 97% AFUE high-efficiency condensing gas",
+        "Quieter and more comfortable than the single-stage ML296"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML296",
+        "Not fully modulating like the SLP99V Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage heat avoids big temperature swings",
+          "Variable-speed blower = quiet, even airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1289,
+      "basis": "heating \u00b7 90k BTU \u00b7 Up to 97% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL297"
+      },
+      {
+        "label": "Capacity",
+        "value": "90,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-el297-110-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "EL297",
+    "size": "110,000 BTU",
+    "unit": "btu",
+    "value": 110000,
+    "regularPrice": 9100,
+    "costPrice": 7500,
+    "salePrice": 8000,
+    "quotePrice": 8000,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/82574e95dd/el296v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 97,
+        "label": "Up to 97% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger (registered)",
+      "features": [
+        "Two-stage burner \u2014 runs on low most of the time for steadier heat and lower bills",
+        "Variable-speed blower for quiet, even airflow and better filtration",
+        "Up to 97% AFUE high-efficiency condensing gas",
+        "Quieter and more comfortable than the single-stage ML296"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML296",
+        "Not fully modulating like the SLP99V Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage heat avoids big temperature swings",
+          "Variable-speed blower = quiet, even airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1575,
+      "basis": "heating \u00b7 110k BTU \u00b7 Up to 97% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL297"
+      },
+      {
+        "label": "Capacity",
+        "value": "110,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-el297-135-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "EL297",
+    "size": "135,000 BTU",
+    "unit": "btu",
+    "value": 135000,
+    "regularPrice": 9900,
+    "costPrice": 8300,
+    "salePrice": 8800,
+    "quotePrice": 8800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/82574e95dd/el296v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 97,
+        "label": "Up to 97% AFUE"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger (registered)",
+      "features": [
+        "Two-stage burner \u2014 runs on low most of the time for steadier heat and lower bills",
+        "Variable-speed blower for quiet, even airflow and better filtration",
+        "Up to 97% AFUE high-efficiency condensing gas",
+        "Quieter and more comfortable than the single-stage ML296"
+      ],
+      "cons": [
+        "Costs more than the single-stage ML296",
+        "Not fully modulating like the SLP99V Signature"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Two-stage heat avoids big temperature swings",
+          "Variable-speed blower = quiet, even airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1933,
+      "basis": "heating \u00b7 135k BTU \u00b7 Up to 97% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "EL297"
+      },
+      {
+        "label": "Capacity",
+        "value": "135,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-slp99v-45-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "SLP99V",
+    "size": "45,000 BTU",
+    "unit": "btu",
+    "value": 45000,
+    "regularPrice": 10100,
+    "costPrice": 8000,
+    "salePrice": 8700,
+    "quotePrice": 8700,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/c2be9f58ec/slp99v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 99,
+        "label": "Up to 99% AFUE"
+      },
+      "warranty": "10-yr parts / lifetime heat exchanger (registered)",
+      "features": [
+        "Modulating (variable-capacity) burner \u2014 adjusts in fine steps to hold a near-constant temperature",
+        "Variable-speed blower \u2014 the quietest, most even airflow in the lineup",
+        "Up to 99% AFUE \u2014 Lennox's most efficient gas furnace",
+        "Highest comfort and lowest operating cost of the three"
+      ],
+      "cons": [
+        "Highest upfront price of the Lennox furnaces",
+        "Premium features are more than a basic single-stage home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Modulating heat holds temperature within ~0.5\u00b0",
+          "Ultra-quiet variable-speed operation"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 631,
+      "basis": "heating \u00b7 45k BTU \u00b7 Up to 99% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SLP99V"
+      },
+      {
+        "label": "Capacity",
+        "value": "45,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-slp99v-70-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "SLP99V",
+    "size": "70,000 BTU",
+    "unit": "btu",
+    "value": 70000,
+    "regularPrice": 10800,
+    "costPrice": 8700,
+    "salePrice": 9400,
+    "quotePrice": 9400,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/c2be9f58ec/slp99v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 99,
+        "label": "Up to 99% AFUE"
+      },
+      "warranty": "10-yr parts / lifetime heat exchanger (registered)",
+      "features": [
+        "Modulating (variable-capacity) burner \u2014 adjusts in fine steps to hold a near-constant temperature",
+        "Variable-speed blower \u2014 the quietest, most even airflow in the lineup",
+        "Up to 99% AFUE \u2014 Lennox's most efficient gas furnace",
+        "Highest comfort and lowest operating cost of the three"
+      ],
+      "cons": [
+        "Highest upfront price of the Lennox furnaces",
+        "Premium features are more than a basic single-stage home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Modulating heat holds temperature within ~0.5\u00b0",
+          "Ultra-quiet variable-speed operation"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 982,
+      "basis": "heating \u00b7 70k BTU \u00b7 Up to 99% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SLP99V"
+      },
+      {
+        "label": "Capacity",
+        "value": "70,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-slp99v-90-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "SLP99V",
+    "size": "90,000 BTU",
+    "unit": "btu",
+    "value": 90000,
+    "regularPrice": 11600,
+    "costPrice": 9400,
+    "salePrice": 10100,
+    "quotePrice": 10100,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/c2be9f58ec/slp99v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 99,
+        "label": "Up to 99% AFUE"
+      },
+      "warranty": "10-yr parts / lifetime heat exchanger (registered)",
+      "features": [
+        "Modulating (variable-capacity) burner \u2014 adjusts in fine steps to hold a near-constant temperature",
+        "Variable-speed blower \u2014 the quietest, most even airflow in the lineup",
+        "Up to 99% AFUE \u2014 Lennox's most efficient gas furnace",
+        "Highest comfort and lowest operating cost of the three"
+      ],
+      "cons": [
+        "Highest upfront price of the Lennox furnaces",
+        "Premium features are more than a basic single-stage home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Modulating heat holds temperature within ~0.5\u00b0",
+          "Ultra-quiet variable-speed operation"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1263,
+      "basis": "heating \u00b7 90k BTU \u00b7 Up to 99% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SLP99V"
+      },
+      {
+        "label": "Capacity",
+        "value": "90,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-slp99v-110-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "SLP99V",
+    "size": "110,000 BTU",
+    "unit": "btu",
+    "value": 110000,
+    "regularPrice": 12100,
+    "costPrice": 9900,
+    "salePrice": 10700,
+    "quotePrice": 10700,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/c2be9f58ec/slp99v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 99,
+        "label": "Up to 99% AFUE"
+      },
+      "warranty": "10-yr parts / lifetime heat exchanger (registered)",
+      "features": [
+        "Modulating (variable-capacity) burner \u2014 adjusts in fine steps to hold a near-constant temperature",
+        "Variable-speed blower \u2014 the quietest, most even airflow in the lineup",
+        "Up to 99% AFUE \u2014 Lennox's most efficient gas furnace",
+        "Highest comfort and lowest operating cost of the three"
+      ],
+      "cons": [
+        "Highest upfront price of the Lennox furnaces",
+        "Premium features are more than a basic single-stage home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Modulating heat holds temperature within ~0.5\u00b0",
+          "Ultra-quiet variable-speed operation"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1543,
+      "basis": "heating \u00b7 110k BTU \u00b7 Up to 99% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SLP99V"
+      },
+      {
+        "label": "Capacity",
+        "value": "110,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-lennox-slp99v-135-000-btu",
+    "category": "Furnace",
+    "brand": "Lennox",
+    "model": "SLP99V",
+    "size": "135,000 BTU",
+    "unit": "btu",
+    "value": 135000,
+    "regularPrice": 12900,
+    "costPrice": 10700,
+    "salePrice": 11500,
+    "quotePrice": 11500,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/c2be9f58ec/slp99v-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 99,
+        "label": "Up to 99% AFUE"
+      },
+      "warranty": "10-yr parts / lifetime heat exchanger (registered)",
+      "features": [
+        "Modulating (variable-capacity) burner \u2014 adjusts in fine steps to hold a near-constant temperature",
+        "Variable-speed blower \u2014 the quietest, most even airflow in the lineup",
+        "Up to 99% AFUE \u2014 Lennox's most efficient gas furnace",
+        "Highest comfort and lowest operating cost of the three"
+      ],
+      "cons": [
+        "Highest upfront price of the Lennox furnaces",
+        "Premium features are more than a basic single-stage home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Modulating heat holds temperature within ~0.5\u00b0",
+          "Ultra-quiet variable-speed operation"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1894,
+      "basis": "heating \u00b7 135k BTU \u00b7 Up to 99% AFUE"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "SLP99V"
+      },
+      {
+        "label": "Capacity",
+        "value": "135,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-carrier-59tp6-40-000-btu",
+    "category": "Furnace",
+    "brand": "Carrier",
+    "model": "59TP6",
+    "size": "40,000 BTU",
+    "unit": "btu",
+    "value": 40000,
+    "regularPrice": 6800,
+    "costPrice": 5600,
+    "salePrice": 6000,
+    "quotePrice": 6000,
+    "needsManualPrice": false,
+    "image": "https://brandportal.carrier.com/transform/1280x1280-PDP-Hero/60b1f1a2-4544-4ad7-8f37-1cc9301c9bc3/gas-furnace-59TP6-1280x1280",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96.5,
+        "label": "96.5% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Performance\u2122 96 \u2014 ENERGY STAR\u00ae certified",
+        "Two-stage gas valve runs low ~90% of the time",
+        "Variable-speed ECM blower with proportional airflow",
+        "InteliSense\u2122 remote monitoring with a smart thermostat"
+      ],
+      "cons": [
+        "Highest furnace price in the lineup",
+        "Full 10-yr warranty requires registration"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Long, low, quiet heating cycles",
+          "Variable-speed blower evens out hot/cold spots",
+          "Better dehumidification when paired with AC"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 576,
+      "basis": "heating \u00b7 40k BTU \u00b7 96.5% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "59TP6"
+      },
+      {
+        "label": "Capacity",
+        "value": "40,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-carrier-59tp6-60-000-btu",
+    "category": "Furnace",
+    "brand": "Carrier",
+    "model": "59TP6",
+    "size": "60,000 BTU",
+    "unit": "btu",
+    "value": 60000,
+    "regularPrice": 7200,
+    "costPrice": 6000,
+    "salePrice": 6400,
+    "quotePrice": 6400,
+    "needsManualPrice": false,
+    "image": "https://brandportal.carrier.com/transform/1280x1280-PDP-Hero/60b1f1a2-4544-4ad7-8f37-1cc9301c9bc3/gas-furnace-59TP6-1280x1280",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96.5,
+        "label": "96.5% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Performance\u2122 96 \u2014 ENERGY STAR\u00ae certified",
+        "Two-stage gas valve runs low ~90% of the time",
+        "Variable-speed ECM blower with proportional airflow",
+        "InteliSense\u2122 remote monitoring with a smart thermostat"
+      ],
+      "cons": [
+        "Highest furnace price in the lineup",
+        "Full 10-yr warranty requires registration"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Long, low, quiet heating cycles",
+          "Variable-speed blower evens out hot/cold spots",
+          "Better dehumidification when paired with AC"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 864,
+      "basis": "heating \u00b7 60k BTU \u00b7 96.5% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "59TP6"
+      },
+      {
+        "label": "Capacity",
+        "value": "60,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-carrier-59tp6-80-000-btu",
+    "category": "Furnace",
+    "brand": "Carrier",
+    "model": "59TP6",
+    "size": "80,000 BTU",
+    "unit": "btu",
+    "value": 80000,
+    "regularPrice": 7700,
+    "costPrice": 6500,
+    "salePrice": 6900,
+    "quotePrice": 6900,
+    "needsManualPrice": false,
+    "image": "https://brandportal.carrier.com/transform/1280x1280-PDP-Hero/60b1f1a2-4544-4ad7-8f37-1cc9301c9bc3/gas-furnace-59TP6-1280x1280",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96.5,
+        "label": "96.5% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Performance\u2122 96 \u2014 ENERGY STAR\u00ae certified",
+        "Two-stage gas valve runs low ~90% of the time",
+        "Variable-speed ECM blower with proportional airflow",
+        "InteliSense\u2122 remote monitoring with a smart thermostat"
+      ],
+      "cons": [
+        "Highest furnace price in the lineup",
+        "Full 10-yr warranty requires registration"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Long, low, quiet heating cycles",
+          "Variable-speed blower evens out hot/cold spots",
+          "Better dehumidification when paired with AC"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1151,
+      "basis": "heating \u00b7 80k BTU \u00b7 96.5% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "59TP6"
+      },
+      {
+        "label": "Capacity",
+        "value": "80,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-carrier-59tp6-100-000-btu",
+    "category": "Furnace",
+    "brand": "Carrier",
+    "model": "59TP6",
+    "size": "100,000 BTU",
+    "unit": "btu",
+    "value": 100000,
+    "regularPrice": 8200,
+    "costPrice": 7000,
+    "salePrice": 7400,
+    "quotePrice": 7400,
+    "needsManualPrice": false,
+    "image": "https://brandportal.carrier.com/transform/1280x1280-PDP-Hero/60b1f1a2-4544-4ad7-8f37-1cc9301c9bc3/gas-furnace-59TP6-1280x1280",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96.5,
+        "label": "96.5% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Performance\u2122 96 \u2014 ENERGY STAR\u00ae certified",
+        "Two-stage gas valve runs low ~90% of the time",
+        "Variable-speed ECM blower with proportional airflow",
+        "InteliSense\u2122 remote monitoring with a smart thermostat"
+      ],
+      "cons": [
+        "Highest furnace price in the lineup",
+        "Full 10-yr warranty requires registration"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Long, low, quiet heating cycles",
+          "Variable-speed blower evens out hot/cold spots",
+          "Better dehumidification when paired with AC"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1439,
+      "basis": "heating \u00b7 100k BTU \u00b7 96.5% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "59TP6"
+      },
+      {
+        "label": "Capacity",
+        "value": "100,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "furnace-carrier-59tp6-120-000-btu",
+    "category": "Furnace",
+    "brand": "Carrier",
+    "model": "59TP6",
+    "size": "120,000 BTU",
+    "unit": "btu",
+    "value": 120000,
+    "regularPrice": 8700,
+    "costPrice": 7500,
+    "salePrice": 7900,
+    "quotePrice": 7900,
+    "needsManualPrice": false,
+    "image": "https://brandportal.carrier.com/transform/1280x1280-PDP-Hero/60b1f1a2-4544-4ad7-8f37-1cc9301c9bc3/gas-furnace-59TP6-1280x1280",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "AFUE",
+        "value": 96.5,
+        "label": "96.5% AFUE \u00b7 two-stage"
+      },
+      "warranty": "10-yr parts / 20-yr heat exchanger",
+      "features": [
+        "Performance\u2122 96 \u2014 ENERGY STAR\u00ae certified",
+        "Two-stage gas valve runs low ~90% of the time",
+        "Variable-speed ECM blower with proportional airflow",
+        "InteliSense\u2122 remote monitoring with a smart thermostat"
+      ],
+      "cons": [
+        "Highest furnace price in the lineup",
+        "Full 10-yr warranty requires registration"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Long, low, quiet heating cycles",
+          "Variable-speed blower evens out hot/cold spots",
+          "Better dehumidification when paired with AC"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 1727,
+      "basis": "heating \u00b7 120k BTU \u00b7 96.5% AFUE \u00b7 two-stage"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Furnace"
+      },
+      {
+        "label": "Brand",
+        "value": "Carrier"
+      },
+      {
+        "label": "Model",
+        "value": "59TP6"
+      },
+      {
+        "label": "Capacity",
+        "value": "120,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "humidifier-aprilaire-500m-upto-3500-sq-ft-36",
+    "category": "Humidifier",
+    "brand": "Aprilaire",
+    "model": "500M",
+    "size": "Upto 3500 Sq Ft",
+    "unit": "sqft",
+    "value": 3500,
+    "regularPrice": 600,
+    "costPrice": 480,
+    "salePrice": 480,
+    "quotePrice": 480,
+    "needsManualPrice": false,
+    "image": "https://shop.aprilaire.com/cdn/shop/files/01_aprilaire-500-humidifier-hero-photo-2026-04-08.jpg?width=600",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves dry winter air \u2014 static, dry skin, cracked wood/floors \u2014 with whole-home humidity",
+        "Bypass humidifier for homes up to ~3,500 sq ft",
+        "Adds moisture so you feel warmer at a lower thermostat setting",
+        "Low water use and simple seasonal maintenance"
+      ],
+      "cons": [
+        "Manual humidistat \u2014 set it by season yourself",
+        "Needs a bypass duct and a drain",
+        "Smaller coverage than the 600M"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Whole-home moisture in winter",
+          "Manual control"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Humidifier"
+      },
+      {
+        "label": "Brand",
+        "value": "Aprilaire"
+      },
+      {
+        "label": "Model",
+        "value": "500M"
+      },
+      {
+        "label": "Coverage",
+        "value": "Upto 3500 Sq Ft"
+      }
+    ]
+  },
+  {
+    "id": "humidifier-aprilaire-600m-upto-5000-sq-ft-37",
+    "category": "Humidifier",
+    "brand": "Aprilaire",
+    "model": "600M",
+    "size": "Upto 5000 Sq Ft",
+    "unit": "sqft",
+    "value": 5000,
+    "regularPrice": 700,
+    "costPrice": 540,
+    "salePrice": 540,
+    "quotePrice": 540,
+    "needsManualPrice": false,
+    "image": "https://shop.aprilaire.com/cdn/shop/files/01_aprilaire-600-humidifier-hero-photo-2026-04-08.jpg?width=600",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves dry winter air in larger homes \u2014 static, dry skin, cracked wood \u2014 with whole-home humidity",
+        "Higher-output bypass humidifier covering up to ~5,000 sq ft",
+        "More evaporative capacity than the 500M for bigger/leakier homes",
+        "Adds moisture so you feel warmer at a lower thermostat setting"
+      ],
+      "cons": [
+        "Manual humidistat \u2014 set it by season yourself",
+        "Needs a bypass duct and a drain"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Strong whole-home moisture for large homes",
+          "Manual control"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Humidifier"
+      },
+      {
+        "label": "Brand",
+        "value": "Aprilaire"
+      },
+      {
+        "label": "Model",
+        "value": "600M"
+      },
+      {
+        "label": "Coverage",
+        "value": "Upto 5000 Sq Ft"
+      }
+    ]
+  },
+  {
+    "id": "smart-thermostat-ecobee-essential-38",
+    "category": "Smart Thermostat",
+    "brand": "Ecobee",
+    "model": "Essential",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 450,
+    "costPrice": 275,
+    "salePrice": 275,
+    "quotePrice": 275,
+    "needsManualPrice": false,
+    "image": "https://images.ctfassets.net/a3qyhfznts9y/1FuBM3DL2TrYPRIlosGqRx/77f85d6f7cf152099c4a2b182d981889/Essential_1_Mobile_badge_US.jpg?w=600&fm=jpg",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves wasted energy heating/cooling an empty home \u2014 auto-adjusts and runs from your phone",
+        "Wi-Fi app control + scheduling from anywhere",
+        "Smart Home/Away energy savings",
+        "Works with most 24V gas/electric systems (C-wire)"
+      ],
+      "cons": [
+        "No included room sensor \u2014 can't balance hot/cold rooms",
+        "No built-in voice assistant or air-quality monitor"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Smart Thermostat"
+      },
+      {
+        "label": "Brand",
+        "value": "Ecobee"
+      },
+      {
+        "label": "Model",
+        "value": "Essential"
+      }
+    ]
+  },
+  {
+    "id": "smart-thermostat-ecobee-enhanced-39",
+    "category": "Smart Thermostat",
+    "brand": "Ecobee",
+    "model": "Enhanced",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 520,
+    "costPrice": 325,
+    "salePrice": 325,
+    "quotePrice": 325,
+    "needsManualPrice": false,
+    "image": "https://images.ctfassets.net/a3qyhfznts9y/6KHml7l2bCAOpa3jFSHOAJ/b3740b81871c4d4bbabc41369d7ec4fa/Artemis_-_Slot_1_-_Mobile_-_US.png?w=600&fm=png",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves hot/cold rooms and away-waste \u2014 adds room-sensor support for even comfort",
+        "Pairs with remote SmartSensors to balance room temperatures",
+        "Smart Home/Away auto-scheduling and savings",
+        "Wi-Fi app control + flexible scheduling"
+      ],
+      "cons": [
+        "SmartSensor sold separately",
+        "No built-in air-quality monitor or voice control"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Room sensors even out temperatures",
+          "Occupancy-aware scheduling"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Smart Thermostat"
+      },
+      {
+        "label": "Brand",
+        "value": "Ecobee"
+      },
+      {
+        "label": "Model",
+        "value": "Enhanced"
+      }
+    ]
+  },
+  {
+    "id": "smart-thermostat-ecobee-premium-40",
+    "category": "Smart Thermostat",
+    "brand": "Ecobee",
+    "model": "Premium",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 600,
+    "costPrice": 400,
+    "salePrice": 400,
+    "quotePrice": 400,
+    "needsManualPrice": false,
+    "image": "https://images.ctfassets.net/a3qyhfznts9y/3Pk9XugWXYQXdiPmssg4r4/e6ddc84bb15c2c2611037d8e5ca5e994/Ares_-_Slot_2_-_Mobile.png?w=600&fm=png",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves uneven comfort + indoor-air concerns \u2014 top tier with sensor, air-quality monitor & voice",
+        "Includes a SmartSensor for room balancing + occupancy detection",
+        "Built-in air-quality monitor",
+        "Built-in Alexa/Siri voice control"
+      ],
+      "cons": [
+        "Highest price of the three",
+        "Premium features are more than a simple single-zone home needs"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Sensor-balanced comfort across rooms",
+          "Air-quality awareness built in"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Smart Thermostat"
+      },
+      {
+        "label": "Brand",
+        "value": "Ecobee"
+      },
+      {
+        "label": "Model",
+        "value": "Premium"
+      }
+    ]
+  },
+  {
+    "id": "smart-thermostat-lennox-s40",
+    "category": "Smart Thermostat",
+    "brand": "Lennox",
+    "model": "S40",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 800,
+    "costPrice": null,
+    "salePrice": 800,
+    "quotePrice": 800,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/6212b1a0c0/21LNX_96301_S40_Wall_HO_US_RGB_shadow2.png",
+    "source": "baseline-only",
+    "spec": {
+      "features": [
+        "Solves clunky controls + wasted energy \u2014 premium smart thermostat with a large color touchscreen",
+        "Feels Good\u00ae mode auto-balances temperature and humidity for comfort",
+        "Built-in Wi-Fi with the Lennox app + Alexa/Google voice control",
+        "Designed for Lennox variable/communicating systems \u2014 unlocks full staging & comfort features"
+      ],
+      "cons": [
+        "Premium price",
+        "Best value paired with a higher-end Lennox furnace/AC"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Auto temperature + humidity balancing",
+          "Tightest control on variable-capacity systems"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Smart Thermostat"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "S40"
+      }
+    ]
+  },
+  {
+    "id": "smart-thermostat-lennox-m30",
+    "category": "Smart Thermostat",
+    "brand": "Lennox",
+    "model": "M30",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 600,
+    "costPrice": null,
+    "salePrice": 600,
+    "quotePrice": 600,
+    "needsManualPrice": false,
+    "image": "https://www.lennox.com/dA/dd1436fac1/icomfort-m30-prod.png",
+    "source": "baseline-only",
+    "spec": {
+      "features": [
+        "Solves manual scheduling + away-waste \u2014 smart Wi-Fi thermostat at a friendlier price",
+        "Color touchscreen with app control and scheduling from anywhere",
+        "Smart away/home setbacks trim heating & cooling bills",
+        "Works with standard Lennox and most 24V systems"
+      ],
+      "cons": [
+        "Fewer comfort features than the S40 (no Feels Good\u00ae humidity balancing)",
+        "Not required to run a basic system"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "App scheduling and away savings",
+          "Simple, reliable smart control"
+        ]
+      }
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Smart Thermostat"
+      },
+      {
+        "label": "Brand",
+        "value": "Lennox"
+      },
+      {
+        "label": "Model",
+        "value": "M30"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-conventional-vented-chimney-40-gallon-42",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Conventional Vented (Chimney)",
+    "size": "40 Gallon",
+    "unit": "gallon",
+    "value": 40,
+    "regularPrice": 2800,
+    "costPrice": 1900,
+    "salePrice": null,
+    "quotePrice": 2800,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-atmospheric.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.6,
+        "label": "\u22480.60 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Atmospheric vent \u2014 uses the existing chimney",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Lowest upfront cost"
+      ],
+      "cons": [
+        "Lowest efficiency here (\u22480.60 UEF) \u2014 highest gas use",
+        "Hot water can run out under heavy use",
+        "Needs a working chimney"
+      ],
+      "comfort": {
+        "score": 2,
+        "notes": [
+          "Hot water can run out under heavy use",
+          "Slower recovery than tankless"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 417,
+      "basis": "hot water \u00b7 \u22480.60 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Conventional Vented (Chimney)"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "40 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-conventional-vented-chimney-50-gallon-43",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Conventional Vented (Chimney)",
+    "size": "50 Gallon",
+    "unit": "gallon",
+    "value": 50,
+    "regularPrice": 3200,
+    "costPrice": 2400,
+    "salePrice": null,
+    "quotePrice": 3200,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-atmospheric.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.6,
+        "label": "\u22480.60 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Atmospheric vent \u2014 uses the existing chimney",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Lowest upfront cost"
+      ],
+      "cons": [
+        "Lowest efficiency here (\u22480.60 UEF) \u2014 highest gas use",
+        "Hot water can run out under heavy use",
+        "Needs a working chimney"
+      ],
+      "comfort": {
+        "score": 2,
+        "notes": [
+          "Hot water can run out under heavy use",
+          "Slower recovery than tankless"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 417,
+      "basis": "hot water \u00b7 \u22480.60 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Conventional Vented (Chimney)"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "50 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-conventional-vented-chimney-60-gallon-44",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Conventional Vented (Chimney)",
+    "size": "60 Gallon",
+    "unit": "gallon",
+    "value": 60,
+    "regularPrice": 3800,
+    "costPrice": 2800,
+    "salePrice": null,
+    "quotePrice": 3800,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-atmospheric.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.6,
+        "label": "\u22480.60 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Atmospheric vent \u2014 uses the existing chimney",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Lowest upfront cost"
+      ],
+      "cons": [
+        "Lowest efficiency here (\u22480.60 UEF) \u2014 highest gas use",
+        "Hot water can run out under heavy use",
+        "Needs a working chimney"
+      ],
+      "comfort": {
+        "score": 2,
+        "notes": [
+          "Hot water can run out under heavy use",
+          "Slower recovery than tankless"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 417,
+      "basis": "hot water \u00b7 \u22480.60 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Conventional Vented (Chimney)"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "60 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-conventional-vented-chimney-75-gallon-45",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Conventional Vented (Chimney)",
+    "size": "75 Gallon",
+    "unit": "gallon",
+    "value": 75,
+    "regularPrice": 4500,
+    "costPrice": 3300,
+    "salePrice": null,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-atmospheric.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.6,
+        "label": "\u22480.60 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Atmospheric vent \u2014 uses the existing chimney",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Lowest upfront cost"
+      ],
+      "cons": [
+        "Lowest efficiency here (\u22480.60 UEF) \u2014 highest gas use",
+        "Hot water can run out under heavy use",
+        "Needs a working chimney"
+      ],
+      "comfort": {
+        "score": 2,
+        "notes": [
+          "Hot water can run out under heavy use",
+          "Slower recovery than tankless"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 417,
+      "basis": "hot water \u00b7 \u22480.60 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Conventional Vented (Chimney)"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "75 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-power-vented-40-gallon-46",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Power Vented",
+    "size": "40 Gallon",
+    "unit": "gallon",
+    "value": 40,
+    "regularPrice": 2800,
+    "costPrice": 1900,
+    "salePrice": null,
+    "quotePrice": 2800,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-power-vent.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.64,
+        "label": "\u22480.64 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Power vent \u2014 vents through the side wall, no chimney needed",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Quiet sealed combustion blower"
+      ],
+      "cons": [
+        "Hot water can still run out under heavy use",
+        "Blower adds slight noise and needs an outlet"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Hot water can still run out under heavy use",
+          "Faster, fan-assisted venting"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 391,
+      "basis": "hot water \u00b7 \u22480.64 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Power Vented"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "40 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-power-vented-50-gallon-47",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Power Vented",
+    "size": "50 Gallon",
+    "unit": "gallon",
+    "value": 50,
+    "regularPrice": 3200,
+    "costPrice": 2400,
+    "salePrice": null,
+    "quotePrice": 3200,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-power-vent.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.64,
+        "label": "\u22480.64 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Power vent \u2014 vents through the side wall, no chimney needed",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Quiet sealed combustion blower"
+      ],
+      "cons": [
+        "Hot water can still run out under heavy use",
+        "Blower adds slight noise and needs an outlet"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Hot water can still run out under heavy use",
+          "Faster, fan-assisted venting"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 391,
+      "basis": "hot water \u00b7 \u22480.64 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Power Vented"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "50 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-power-vented-60-gallon-48",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Power Vented",
+    "size": "60 Gallon",
+    "unit": "gallon",
+    "value": 60,
+    "regularPrice": 3800,
+    "costPrice": 2800,
+    "salePrice": null,
+    "quotePrice": 3800,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-power-vent.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.64,
+        "label": "\u22480.64 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Power vent \u2014 vents through the side wall, no chimney needed",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Quiet sealed combustion blower"
+      ],
+      "cons": [
+        "Hot water can still run out under heavy use",
+        "Blower adds slight noise and needs an outlet"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Hot water can still run out under heavy use",
+          "Faster, fan-assisted venting"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 391,
+      "basis": "hot water \u00b7 \u22480.64 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Power Vented"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "60 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "water-heater-bradford-white-power-vented-75-gallon-49",
+    "category": "Water Heater",
+    "brand": "Bradford White",
+    "model": "Power Vented",
+    "size": "75 Gallon",
+    "unit": "gallon",
+    "value": 75,
+    "regularPrice": 4500,
+    "costPrice": 3300,
+    "salePrice": null,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "/product-images/bradford-white-power-vent.jpg",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.64,
+        "label": "\u22480.64 UEF"
+      },
+      "warranty": "6-yr tank & parts",
+      "features": [
+        "Power vent \u2014 vents through the side wall, no chimney needed",
+        "Vitraglas\u00ae enamel tank lining",
+        "ICON System\u2122 intelligent gas control",
+        "Quiet sealed combustion blower"
+      ],
+      "cons": [
+        "Hot water can still run out under heavy use",
+        "Blower adds slight noise and needs an outlet"
+      ],
+      "comfort": {
+        "score": 3,
+        "notes": [
+          "Hot water can still run out under heavy use",
+          "Faster, fan-assisted venting"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 391,
+      "basis": "hot water \u00b7 \u22480.64 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Bradford White"
+      },
+      {
+        "label": "Model",
+        "value": "Power Vented"
+      },
+      {
+        "label": "Tank capacity",
+        "value": "75 Gallon"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-rinnai-rx160-160-000-btu-50",
+    "category": "Tankless Water Heater",
+    "brand": "Rinnai",
+    "model": "RX160",
+    "size": "160,000 BTU",
+    "unit": "btu",
+    "value": 160000,
+    "regularPrice": 4500,
+    "costPrice": 3400,
+    "salePrice": null,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "https://rinnai.widen.net/content/blzlu54nce/web/SENSEI%20RX_Cover%20on_straight%20on.png?u=dayyv3",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95\u20130.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "SENSEI\u00ae RX condensing tankless \u2014 endless hot water",
+        "Smart-Circ\u2122 intelligent recirculation scheduling",
+        "Wi-Fi built in (Rinnai Central\u2122 app)",
+        "Compact wall-mount frees floor space"
+      ],
+      "cons": [
+        "Higher upfront cost than a tank",
+        "Annual descaling recommended in hard-water areas",
+        "May need a 3/4\" gas line"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Endless hot water \u2014 never runs out",
+          "Recirc scheduling shortens the wait"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95\u20130.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Rinnai"
+      },
+      {
+        "label": "Model",
+        "value": "RX160"
+      },
+      {
+        "label": "Capacity",
+        "value": "160,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-rinnai-rx199-199-000-btu-51",
+    "category": "Tankless Water Heater",
+    "brand": "Rinnai",
+    "model": "RX199",
+    "size": "199,000 BTU",
+    "unit": "btu",
+    "value": 199000,
+    "regularPrice": 4900,
+    "costPrice": 3800,
+    "salePrice": null,
+    "quotePrice": 4900,
+    "needsManualPrice": false,
+    "image": "https://rinnai.widen.net/content/blzlu54nce/web/SENSEI%20RX_Cover%20on_straight%20on.png?u=dayyv3",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95\u20130.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "SENSEI\u00ae RX condensing tankless \u2014 endless hot water",
+        "Smart-Circ\u2122 intelligent recirculation scheduling",
+        "Wi-Fi built in (Rinnai Central\u2122 app)",
+        "Compact wall-mount frees floor space"
+      ],
+      "cons": [
+        "Higher upfront cost than a tank",
+        "Annual descaling recommended in hard-water areas",
+        "May need a 3/4\" gas line"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Endless hot water \u2014 never runs out",
+          "Recirc scheduling shortens the wait"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95\u20130.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Rinnai"
+      },
+      {
+        "label": "Model",
+        "value": "RX199"
+      },
+      {
+        "label": "Capacity",
+        "value": "199,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-rinnai-rxp160-160-000-btu-52",
+    "category": "Tankless Water Heater",
+    "brand": "Rinnai",
+    "model": "RXP160",
+    "size": "160,000 BTU",
+    "unit": "btu",
+    "value": 160000,
+    "regularPrice": 5100,
+    "costPrice": 4000,
+    "salePrice": null,
+    "quotePrice": 5100,
+    "needsManualPrice": false,
+    "image": "https://www.rinnai.us/sites/default/files/2024-02/SENSEI%20RX_Cover%20on_straight%20on_0.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95\u20130.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "SENSEI\u00ae RXP \u2014 built-in recirculation pump",
+        "Near-instant hot water at the tap",
+        "Smart-Circ\u2122 learns your hot-water routine",
+        "Wi-Fi built in (Rinnai Central\u2122 app)"
+      ],
+      "cons": [
+        "Most expensive Rinnai option",
+        "Recirculation benefit needs a return line or crossover valve",
+        "Annual descaling recommended in hard-water areas"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Endless AND near-instant hot water (built-in pump)",
+          "No cold-water wait at the tap"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95\u20130.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Rinnai"
+      },
+      {
+        "label": "Model",
+        "value": "RXP160"
+      },
+      {
+        "label": "Capacity",
+        "value": "160,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-rinnai-rxp199-199-000-btu-53",
+    "category": "Tankless Water Heater",
+    "brand": "Rinnai",
+    "model": "RXP199",
+    "size": "199,000 BTU",
+    "unit": "btu",
+    "value": 199000,
+    "regularPrice": 5500,
+    "costPrice": 4300,
+    "salePrice": null,
+    "quotePrice": 5500,
+    "needsManualPrice": false,
+    "image": "https://www.rinnai.us/sites/default/files/2024-02/SENSEI%20RX_Cover%20on_straight%20on_0.png",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95\u20130.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "SENSEI\u00ae RXP \u2014 built-in recirculation pump",
+        "Near-instant hot water at the tap",
+        "Smart-Circ\u2122 learns your hot-water routine",
+        "Wi-Fi built in (Rinnai Central\u2122 app)"
+      ],
+      "cons": [
+        "Most expensive Rinnai option",
+        "Recirculation benefit needs a return line or crossover valve",
+        "Annual descaling recommended in hard-water areas"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Endless AND near-instant hot water (built-in pump)",
+          "No cold-water wait at the tap"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95\u20130.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Rinnai"
+      },
+      {
+        "label": "Model",
+        "value": "RXP199"
+      },
+      {
+        "label": "Capacity",
+        "value": "199,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe180-s2-150-000-btu-54",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE180-S2",
+    "size": "150,000 BTU",
+    "unit": "btu",
+    "value": 150000,
+    "regularPrice": 4500,
+    "costPrice": 3400,
+    "salePrice": null,
+    "quotePrice": 4500,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDIvMjMvMzkvMjMvYmVlMGRkODYtMWNiZC00MzVlLWFjYTEtYjkzMjlhYmE1ZTdjL05QRS1TMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-S2-CoverON-NV.png?sha=9bd7cd5067cf79da",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.96,
+        "label": "0.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-S2 condensing tankless \u2014 endless hot water",
+        "Dual stainless-steel heat exchangers",
+        "Up to 15:1 turndown \u2014 no cycling on low flows",
+        "EZNav\u2122 intuitive on-unit controls"
+      ],
+      "cons": [
+        "Recirculation needs an external pump (NaviCirc/HotButton optional)",
+        "Annual maintenance recommended",
+        "Higher upfront cost than a tank"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Endless hot water \u2014 never runs out",
+          "15:1 turndown \u2014 no cold bursts on low flow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 260,
+      "basis": "hot water \u00b7 0.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE180-S2"
+      },
+      {
+        "label": "Capacity",
+        "value": "150,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe210-s2-180-000-btu-55",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE210-S2",
+    "size": "180,000 BTU",
+    "unit": "btu",
+    "value": 180000,
+    "regularPrice": 4800,
+    "costPrice": 3700,
+    "salePrice": null,
+    "quotePrice": 4800,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDIvMjMvMzkvMjMvYmVlMGRkODYtMWNiZC00MzVlLWFjYTEtYjkzMjlhYmE1ZTdjL05QRS1TMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-S2-CoverON-NV.png?sha=9bd7cd5067cf79da",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.96,
+        "label": "0.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-S2 condensing tankless \u2014 endless hot water",
+        "Dual stainless-steel heat exchangers",
+        "Up to 15:1 turndown \u2014 no cycling on low flows",
+        "EZNav\u2122 intuitive on-unit controls"
+      ],
+      "cons": [
+        "Recirculation needs an external pump (NaviCirc/HotButton optional)",
+        "Annual maintenance recommended",
+        "Higher upfront cost than a tank"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Endless hot water \u2014 never runs out",
+          "15:1 turndown \u2014 no cold bursts on low flow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 260,
+      "basis": "hot water \u00b7 0.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE210-S2"
+      },
+      {
+        "label": "Capacity",
+        "value": "180,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe240-s2-199-000-btu-56",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE240-S2",
+    "size": "199,000 BTU",
+    "unit": "btu",
+    "value": 199000,
+    "regularPrice": 5100,
+    "costPrice": 3900,
+    "salePrice": null,
+    "quotePrice": 5100,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDIvMjMvMzkvMjMvYmVlMGRkODYtMWNiZC00MzVlLWFjYTEtYjkzMjlhYmE1ZTdjL05QRS1TMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-S2-CoverON-NV.png?sha=9bd7cd5067cf79da",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.96,
+        "label": "0.96 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-S2 condensing tankless \u2014 endless hot water",
+        "Dual stainless-steel heat exchangers",
+        "Up to 15:1 turndown \u2014 no cycling on low flows",
+        "EZNav\u2122 intuitive on-unit controls"
+      ],
+      "cons": [
+        "Recirculation needs an external pump (NaviCirc/HotButton optional)",
+        "Annual maintenance recommended",
+        "Higher upfront cost than a tank"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Endless hot water \u2014 never runs out",
+          "15:1 turndown \u2014 no cold bursts on low flow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 260,
+      "basis": "hot water \u00b7 0.96 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE240-S2"
+      },
+      {
+        "label": "Capacity",
+        "value": "199,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe180-a2-150-000-btu-57",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE180-A2",
+    "size": "150,000 BTU",
+    "unit": "btu",
+    "value": 150000,
+    "regularPrice": 5100,
+    "costPrice": 4000,
+    "salePrice": null,
+    "quotePrice": 5100,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDUvMjMvMzcvMjAvOTVlN2MxY2ItNjUyMC00NGI2LWIzOGItMTlmNWFjNjJmZjMzL05QRS1BMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-A2-CoverON-NV.png?sha=b84a8ecf8c1da03c",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-A2 with ComfortFlow\u00ae \u2014 built-in buffer tank + recirc pump",
+        "Eliminates the \"cold-water sandwich\"",
+        "Dual stainless-steel heat exchangers",
+        "Fastest hot-water delivery in the lineup"
+      ],
+      "cons": [
+        "Priciest Navien option",
+        "Slightly lower UEF than the S2 (0.95 vs 0.96)",
+        "Annual maintenance recommended"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Endless hot water with zero \"cold-water sandwich\"",
+          "Buffer tank + pump = instant, stable temperature"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE180-A2"
+      },
+      {
+        "label": "Capacity",
+        "value": "150,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe210-a2-180-000-btu-58",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE210-A2",
+    "size": "180,000 BTU",
+    "unit": "btu",
+    "value": 180000,
+    "regularPrice": 5300,
+    "costPrice": 4300,
+    "salePrice": null,
+    "quotePrice": 5300,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDUvMjMvMzcvMjAvOTVlN2MxY2ItNjUyMC00NGI2LWIzOGItMTlmNWFjNjJmZjMzL05QRS1BMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-A2-CoverON-NV.png?sha=b84a8ecf8c1da03c",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-A2 with ComfortFlow\u00ae \u2014 built-in buffer tank + recirc pump",
+        "Eliminates the \"cold-water sandwich\"",
+        "Dual stainless-steel heat exchangers",
+        "Fastest hot-water delivery in the lineup"
+      ],
+      "cons": [
+        "Priciest Navien option",
+        "Slightly lower UEF than the S2 (0.95 vs 0.96)",
+        "Annual maintenance recommended"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Endless hot water with zero \"cold-water sandwich\"",
+          "Buffer tank + pump = instant, stable temperature"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE210-A2"
+      },
+      {
+        "label": "Capacity",
+        "value": "180,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "tankless-water-heater-navien-npe240-a2-199-000-btu-59",
+    "category": "Tankless Water Heater",
+    "brand": "Navien",
+    "model": "NPE240-A2",
+    "size": "199,000 BTU",
+    "unit": "btu",
+    "value": 199000,
+    "regularPrice": 5600,
+    "costPrice": 4600,
+    "salePrice": null,
+    "quotePrice": 5600,
+    "needsManualPrice": false,
+    "image": "https://www.navieninc.com/app/W1siZiIsIjIwMjUvMDYvMDUvMjMvMzcvMjAvOTVlN2MxY2ItNjUyMC00NGI2LWIzOGItMTlmNWFjNjJmZjMzL05QRS1BMi1Db3Zlck9OLU5WLnBuZyJdLFsicCIsInRodW1iIiwiMjc4eDQ4NSJdXQ/NPE-A2-CoverON-NV.png?sha=b84a8ecf8c1da03c",
+    "source": "db-price",
+    "spec": {
+      "efficiency": {
+        "metric": "UEF",
+        "value": 0.95,
+        "label": "0.95 UEF"
+      },
+      "warranty": "15-yr heat exchanger / 5-yr parts",
+      "features": [
+        "NPE-A2 with ComfortFlow\u00ae \u2014 built-in buffer tank + recirc pump",
+        "Eliminates the \"cold-water sandwich\"",
+        "Dual stainless-steel heat exchangers",
+        "Fastest hot-water delivery in the lineup"
+      ],
+      "cons": [
+        "Priciest Navien option",
+        "Slightly lower UEF than the S2 (0.95 vs 0.96)",
+        "Annual maintenance recommended"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Endless hot water with zero \"cold-water sandwich\"",
+          "Buffer tank + pump = instant, stable temperature"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 263,
+      "basis": "hot water \u00b7 0.95 UEF"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Tankless Water Heater"
+      },
+      {
+        "label": "Brand",
+        "value": "Navien"
+      },
+      {
+        "label": "Model",
+        "value": "NPE240-A2"
+      },
+      {
+        "label": "Capacity",
+        "value": "199,000 BTU"
+      }
+    ]
+  },
+  {
+    "id": "water-softener-excalibur-30-000-grain-30-000-grain-60",
+    "category": "Water Softener",
+    "brand": "Excalibur",
+    "model": null,
+    "size": "30,000 Grain",
+    "unit": "grain",
+    "value": 30000,
+    "regularPrice": 2400,
+    "costPrice": 1800,
+    "salePrice": null,
+    "quotePrice": 2400,
+    "needsManualPrice": false,
+    "image": "/product-images/excalibur-water-softener.jpg",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves hard-water scale, spotting, dry skin & appliance wear \u2014 whole-home softening",
+        "30,000-grain capacity \u2014 suited to smaller households / lower hardness",
+        "Metered regeneration uses salt & water only as needed",
+        "Protects water heater, fixtures, and appliances from scale"
+      ],
+      "cons": [
+        "Smallest capacity \u2014 regenerates more often on hard water/large homes",
+        "Needs salt top-ups and a drain line"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Softener"
+      },
+      {
+        "label": "Brand",
+        "value": "Excalibur"
+      },
+      {
+        "label": "Grain capacity",
+        "value": "30,000 Grain"
+      }
+    ]
+  },
+  {
+    "id": "water-softener-excalibur-45-000-grain-45-000-grain-61",
+    "category": "Water Softener",
+    "brand": "Excalibur",
+    "model": null,
+    "size": "45,000 Grain",
+    "unit": "grain",
+    "value": 45000,
+    "regularPrice": 2700,
+    "costPrice": 2100,
+    "salePrice": null,
+    "quotePrice": 2700,
+    "needsManualPrice": false,
+    "image": "/product-images/excalibur-water-softener.jpg",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves hard-water scale, spotting, dry skin & appliance wear \u2014 whole-home softening",
+        "45,000-grain capacity \u2014 the balanced pick for an average family home",
+        "Fewer regenerations than the 30k \u2014 lower long-run salt & water use",
+        "Protects water heater, fixtures, and appliances from scale"
+      ],
+      "cons": [
+        "Needs salt top-ups and a drain line",
+        "Larger footprint than the 30k"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Softener"
+      },
+      {
+        "label": "Brand",
+        "value": "Excalibur"
+      },
+      {
+        "label": "Grain capacity",
+        "value": "45,000 Grain"
+      }
+    ]
+  },
+  {
+    "id": "water-softener-excalibur-60-000-grain-60-000-grain-62",
+    "category": "Water Softener",
+    "brand": "Excalibur",
+    "model": null,
+    "size": "60,000 Grain",
+    "unit": "grain",
+    "value": 60000,
+    "regularPrice": 2900,
+    "costPrice": 2400,
+    "salePrice": null,
+    "quotePrice": 2900,
+    "needsManualPrice": false,
+    "image": "/product-images/excalibur-water-softener.jpg",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves hard-water scale, spotting, dry skin & appliance wear \u2014 whole-home softening",
+        "60,000-grain capacity \u2014 for large homes or very hard water",
+        "Fewest regenerations \u2014 lowest long-run salt & water use per softened gallon",
+        "Protects water heater, fixtures, and appliances from scale"
+      ],
+      "cons": [
+        "Largest footprint and upfront cost",
+        "Oversized for small homes/soft-ish water"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Water Softener"
+      },
+      {
+        "label": "Brand",
+        "value": "Excalibur"
+      },
+      {
+        "label": "Grain capacity",
+        "value": "60,000 Grain"
+      }
+    ]
+  },
+  {
+    "id": "reverse-osmosis-excalibur-ewr-5075c-ewr-5075c-63",
+    "category": "Reverse Osmosis",
+    "brand": "Excalibur",
+    "model": null,
+    "size": "EWR 5075C",
+    "unit": null,
+    "value": null,
+    "regularPrice": 1100,
+    "costPrice": 700,
+    "salePrice": 700,
+    "quotePrice": 700,
+    "needsManualPrice": false,
+    "image": "/product-images/excalibur-reverse-osmosis.jpg",
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves bad-tasting, contaminated tap water \u2014 multi-stage reverse-osmosis purification",
+        "RO membrane removes dissolved solids, lead, and chlorine taste/odor",
+        "Dedicated drinking-water faucet at the sink",
+        "Compact under-sink installation"
+      ],
+      "cons": [
+        "Sends some water to drain per gallon produced",
+        "Filters/membrane need periodic replacement",
+        "Lower flow than the main tap"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Reverse Osmosis"
+      },
+      {
+        "label": "Brand",
+        "value": "Excalibur"
+      },
+      {
+        "label": "Configuration",
+        "value": "EWR 5075C"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-18wd-1-5-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/18WD",
+    "size": "1.5 Ton",
+    "unit": "ton",
+    "value": 1.5,
+    "regularPrice": 7400,
+    "costPrice": 6400,
+    "salePrice": 6800,
+    "quotePrice": 6800,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16.1,
+        "label": "16.1 SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.8,
+        "label": "7.8 HSPF2 (Region V)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 860,
+      "basis": "heating \u00b7 7.8 HSPF2 (Region V)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/18WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "1.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-24wd-2-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/24WD",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 7600,
+    "costPrice": 6700,
+    "salePrice": 7100,
+    "quotePrice": 7100,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 16.5,
+        "label": "16.5 SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.7,
+        "label": "7.7 HSPF2 (Region V)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 871,
+      "basis": "heating \u00b7 7.7 HSPF2 (Region V)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/24WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-30wd-2-5-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/30WD",
+    "size": "2.5 Ton",
+    "unit": "ton",
+    "value": 2.5,
+    "regularPrice": 7900,
+    "costPrice": 7000,
+    "salePrice": 7400,
+    "quotePrice": 7400,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.5,
+        "label": "15.5 SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.7,
+        "label": "7.7 HSPF2 (Region V)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 871,
+      "basis": "heating \u00b7 7.7 HSPF2 (Region V)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/30WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2.5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-36wd-3-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/36WD",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 8200,
+    "costPrice": 7500,
+    "salePrice": 7900,
+    "quotePrice": 7900,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.4,
+        "label": "~15.4 SEER2 (series)"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.7,
+        "label": "~7.7 HSPF2 (Region V, series)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 871,
+      "basis": "heating \u00b7 ~7.7 HSPF2 (Region V, series)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/36WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-45wd-4-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/45WD",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 8500,
+    "costPrice": 8000,
+    "salePrice": 8400,
+    "quotePrice": 8400,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.2,
+        "label": "15.2 SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.6,
+        "label": "7.6 HSPF2 (Region V)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 883,
+      "basis": "heating \u00b7 7.6 HSPF2 (Region V)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/45WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-kepler-azpn-60wd-5-ton",
+    "category": "Heat Pump",
+    "brand": "Kepler",
+    "model": "AZPN/60WD",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 9200,
+    "costPrice": 8600,
+    "salePrice": 9000,
+    "quotePrice": 9000,
+    "needsManualPrice": false,
+    "image": "https://cdn.shopify.com/s/files/1/0670/0911/8339/files/222_1_cd9de4e9-4663-4f70-a433-33284023c3c3.png?v=1758137769",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 14.5,
+        "label": "14.5 SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.1,
+        "label": "7.1 HSPF2 (Region V)"
+      },
+      "warranty": "10-yr compressor & parts",
+      "features": [
+        "Kepler LUXE Ultra Heat side-discharge inverter",
+        "Cold-climate rated \u2014 HSPF2 published for Region V (Canada)",
+        "Compact low-profile outdoor unit",
+        "Qualifies toward heat-pump rebates"
+      ],
+      "cons": [
+        "Newer brand \u2014 less established than Carrier/Trane",
+        "Efficiency dips on the largest size (14.5 SEER2 at 5 ton)"
+      ],
+      "comfort": {
+        "score": 4,
+        "notes": [
+          "Inverter ramps smoothly \u2014 small temperature swings",
+          "Quiet side-discharge airflow"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 945,
+      "basis": "heating \u00b7 7.1 HSPF2 (Region V)"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Kepler"
+      },
+      {
+        "label": "Model",
+        "value": "AZPN/60WD"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-gree-gud24w-a-d-u-2-ton",
+    "category": "Heat Pump",
+    "brand": "Gree",
+    "model": "GUD24W/A-D(U)",
+    "size": "2 Ton",
+    "unit": "ton",
+    "value": 2,
+    "regularPrice": 7800,
+    "costPrice": 7000,
+    "salePrice": 7400,
+    "quotePrice": 7400,
+    "needsManualPrice": false,
+    "image": "/product-images/gree-flexx.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.2,
+        "label": "15.2+ SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.8,
+        "label": "7.8\u20138.5 HSPF2"
+      },
+      "warranty": "10+2-yr compressor & parts",
+      "features": [
+        "FLEXX side-discharge inverter heat pump",
+        "Cold-climate heating \u2014 keeps working below \u221220 \u00b0C",
+        "Variable-speed compressor ramps to demand",
+        "Compact footprint, low sound profile"
+      ],
+      "cons": [
+        "Higher upfront cost than a single-stage AC",
+        "Brand less established in Canada than Carrier/Trane"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-speed inverter \u2014 virtually no temperature swings",
+          "Whisper ramping, no hard starts",
+          "Heats evenly even in deep cold"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 860,
+      "basis": "heating \u00b7 7.8\u20138.5 HSPF2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Gree"
+      },
+      {
+        "label": "Model",
+        "value": "GUD24W/A-D(U)"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "2 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-gree-gud36w-a-d-u-3-ton",
+    "category": "Heat Pump",
+    "brand": "Gree",
+    "model": "GUD36W/A-D(U)",
+    "size": "3 Ton",
+    "unit": "ton",
+    "value": 3,
+    "regularPrice": 8200,
+    "costPrice": 7500,
+    "salePrice": 7900,
+    "quotePrice": 7900,
+    "needsManualPrice": false,
+    "image": "/product-images/gree-flexx.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.2,
+        "label": "15.2+ SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.8,
+        "label": "7.8\u20138.5 HSPF2"
+      },
+      "warranty": "10+2-yr compressor & parts",
+      "features": [
+        "FLEXX side-discharge inverter heat pump",
+        "Cold-climate heating \u2014 keeps working below \u221220 \u00b0C",
+        "Variable-speed compressor ramps to demand",
+        "Compact footprint, low sound profile"
+      ],
+      "cons": [
+        "Higher upfront cost than a single-stage AC",
+        "Brand less established in Canada than Carrier/Trane"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-speed inverter \u2014 virtually no temperature swings",
+          "Whisper ramping, no hard starts",
+          "Heats evenly even in deep cold"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 860,
+      "basis": "heating \u00b7 7.8\u20138.5 HSPF2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Gree"
+      },
+      {
+        "label": "Model",
+        "value": "GUD36W/A-D(U)"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "3 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-gree-gud48w-a-d-u-4-ton",
+    "category": "Heat Pump",
+    "brand": "Gree",
+    "model": "GUD48W/A-D(U)",
+    "size": "4 Ton",
+    "unit": "ton",
+    "value": 4,
+    "regularPrice": 8800,
+    "costPrice": 8000,
+    "salePrice": 8400,
+    "quotePrice": 8400,
+    "needsManualPrice": false,
+    "image": "/product-images/gree-flexx.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.2,
+        "label": "15.2+ SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.8,
+        "label": "7.8\u20138.5 HSPF2"
+      },
+      "warranty": "10+2-yr compressor & parts",
+      "features": [
+        "FLEXX side-discharge inverter heat pump",
+        "Cold-climate heating \u2014 keeps working below \u221220 \u00b0C",
+        "Variable-speed compressor ramps to demand",
+        "Compact footprint, low sound profile"
+      ],
+      "cons": [
+        "Higher upfront cost than a single-stage AC",
+        "Brand less established in Canada than Carrier/Trane"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-speed inverter \u2014 virtually no temperature swings",
+          "Whisper ramping, no hard starts",
+          "Heats evenly even in deep cold"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 860,
+      "basis": "heating \u00b7 7.8\u20138.5 HSPF2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Gree"
+      },
+      {
+        "label": "Model",
+        "value": "GUD48W/A-D(U)"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "4 Ton"
+      }
+    ]
+  },
+  {
+    "id": "heat-pump-gree-gud60w-a-d-u-5-ton",
+    "category": "Heat Pump",
+    "brand": "Gree",
+    "model": "GUD60W/A-D(U)",
+    "size": "5 Ton",
+    "unit": "ton",
+    "value": 5,
+    "regularPrice": 9400,
+    "costPrice": 8500,
+    "salePrice": 8900,
+    "quotePrice": 8900,
+    "needsManualPrice": false,
+    "image": "/product-images/gree-flexx.png",
+    "source": "baseline-only",
+    "spec": {
+      "efficiency": {
+        "metric": "SEER2",
+        "value": 15.2,
+        "label": "15.2+ SEER2"
+      },
+      "efficiency2": {
+        "metric": "HSPF2",
+        "value": 7.8,
+        "label": "7.8\u20138.5 HSPF2"
+      },
+      "warranty": "10+2-yr compressor & parts",
+      "features": [
+        "FLEXX side-discharge inverter heat pump",
+        "Cold-climate heating \u2014 keeps working below \u221220 \u00b0C",
+        "Variable-speed compressor ramps to demand",
+        "Compact footprint, low sound profile"
+      ],
+      "cons": [
+        "Higher upfront cost than a single-stage AC",
+        "Brand less established in Canada than Carrier/Trane"
+      ],
+      "comfort": {
+        "score": 5,
+        "notes": [
+          "Variable-speed inverter \u2014 virtually no temperature swings",
+          "Whisper ramping, no hard starts",
+          "Heats evenly even in deep cold"
+        ]
+      }
+    },
+    "runCost": {
+      "cost": 860,
+      "basis": "heating \u00b7 7.8\u20138.5 HSPF2"
+    },
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Heat Pump"
+      },
+      {
+        "label": "Brand",
+        "value": "Gree"
+      },
+      {
+        "label": "Model",
+        "value": "GUD60W/A-D(U)"
+      },
+      {
+        "label": "Cooling capacity",
+        "value": "5 Ton"
+      }
+    ]
+  },
+  {
+    "id": "battery-backup-home-battery-backup-system-10-kwh",
+    "category": "Battery Backup",
+    "brand": "Home Battery",
+    "model": "Backup System",
+    "size": "10 kWh",
+    "unit": null,
+    "value": null,
+    "regularPrice": 25000,
+    "costPrice": null,
+    "salePrice": null,
+    "quotePrice": 25000,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves power outages and high time-of-use bills \u2014 stores power for backup and off-peak savings",
+        "10 kWh \u2014 keeps essentials (fridge, lights, internet) running for a few hours",
+        "Shifts some usage to cheaper off-peak power",
+        "Silent, automatic switchover (no fuel, no fumes)"
+      ],
+      "cons": [
+        "Smallest backup window \u2014 essentials, not the whole home for long",
+        "Payback depends on usage & rates",
+        "May need electrical-panel work"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Battery Backup"
+      },
+      {
+        "label": "Brand",
+        "value": "Home Battery"
+      },
+      {
+        "label": "Model",
+        "value": "Backup System"
+      },
+      {
+        "label": "Configuration",
+        "value": "10 kWh"
+      }
+    ]
+  },
+  {
+    "id": "battery-backup-home-battery-backup-system-20-kwh",
+    "category": "Battery Backup",
+    "brand": "Home Battery",
+    "model": "Backup System",
+    "size": "20 kWh",
+    "unit": null,
+    "value": null,
+    "regularPrice": 35000,
+    "costPrice": null,
+    "salePrice": null,
+    "quotePrice": 35000,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves power outages and high time-of-use bills \u2014 stores power for backup and off-peak savings",
+        "20 kWh \u2014 runs home essentials through longer outages",
+        "Strong off-peak shifting for bigger time-of-use savings",
+        "Silent, automatic switchover (no fuel, no fumes)"
+      ],
+      "cons": [
+        "Higher upfront cost than the 10 kWh",
+        "Backup duration still depends on load",
+        "May need electrical-panel work"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Battery Backup"
+      },
+      {
+        "label": "Brand",
+        "value": "Home Battery"
+      },
+      {
+        "label": "Model",
+        "value": "Backup System"
+      },
+      {
+        "label": "Configuration",
+        "value": "20 kWh"
+      }
+    ]
+  },
+  {
+    "id": "battery-backup-home-battery-backup-system-30-kwh",
+    "category": "Battery Backup",
+    "brand": "Home Battery",
+    "model": "Backup System",
+    "size": "30 kWh",
+    "unit": null,
+    "value": null,
+    "regularPrice": 45000,
+    "costPrice": null,
+    "salePrice": null,
+    "quotePrice": 45000,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "db-price",
+    "spec": {
+      "features": [
+        "Solves power outages and high time-of-use bills \u2014 stores power for backup and off-peak savings",
+        "30 kWh \u2014 extended whole-home backup and maximum off-peak savings",
+        "Largest reserve for multi-day resilience and heavy loads",
+        "Silent, automatic switchover (no fuel, no fumes)"
+      ],
+      "cons": [
+        "Highest upfront cost",
+        "Often needs a panel/service upgrade",
+        "Oversized for small homes"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Battery Backup"
+      },
+      {
+        "label": "Brand",
+        "value": "Home Battery"
+      },
+      {
+        "label": "Model",
+        "value": "Backup System"
+      },
+      {
+        "label": "Configuration",
+        "value": "30 kWh"
+      }
+    ]
+  },
+  {
+    "id": "air-purifier-electronic-air-cleaner-ae14-1625-51",
+    "category": "Air Purifier",
+    "brand": "Electronic Air Cleaner",
+    "model": "AE14-1625-51",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 1600,
+    "costPrice": null,
+    "salePrice": null,
+    "quotePrice": 1600,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": {
+      "features": [
+        "Solves household dust, allergens & poor indoor air \u2014 whole-home electronic air cleaning",
+        "Electrostatically captures fine particles, pollen, and smoke",
+        "Washable cells \u2014 no recurring filter cost",
+        "Whole-home coverage installed on the return duct"
+      ],
+      "cons": [
+        "Cells need periodic washing",
+        "Less effective on odors/VOCs than carbon",
+        "Can produce trace ozone"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Purifier"
+      },
+      {
+        "label": "Brand",
+        "value": "Electronic Air Cleaner"
+      },
+      {
+        "label": "Model",
+        "value": "AE14-1625-51"
+      }
+    ]
+  },
+  {
+    "id": "air-purifier-uv-light-air-filter",
+    "category": "Air Purifier",
+    "brand": "UV Light",
+    "model": "Air Filter",
+    "size": "",
+    "unit": null,
+    "value": null,
+    "regularPrice": 3200,
+    "costPrice": null,
+    "salePrice": null,
+    "quotePrice": 3200,
+    "needsManualPrice": false,
+    "image": null,
+    "source": "baseline-only",
+    "spec": {
+      "features": [
+        "Solves coil mold, bacteria & musty odors \u2014 UV-C sterilization in the air handler",
+        "Kills mold and bacteria growing on the evaporator coil",
+        "Keeps the coil clean for better airflow and efficiency",
+        "Low maintenance \u2014 annual bulb change"
+      ],
+      "cons": [
+        "Targets biological growth, not dust/particles",
+        "Annual UV bulb replacement",
+        "Best paired with a filter for particles"
+      ]
+    },
+    "runCost": null,
+    "specRows": [
+      {
+        "label": "Type",
+        "value": "Air Purifier"
+      },
+      {
+        "label": "Brand",
+        "value": "UV Light"
+      },
+      {
+        "label": "Model",
+        "value": "Air Filter"
+      }
+    ]
+  }
+]

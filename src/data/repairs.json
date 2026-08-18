@@ -1,0 +1,1100 @@
+[
+  {
+    "category": "Furnace",
+    "services": [
+      {
+        "id": "furnace-hot-surface-igniter-replacement",
+        "category": "Furnace",
+        "service": "Hot Surface Igniter Replacement",
+        "description": "Replace cracked/failed igniter",
+        "priceFrom": 300,
+        "priceTo": 380,
+        "flatRate": false,
+        "summary": "Replace cracked/failed igniter",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed hot surface igniter and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-flame-sensor-replacement-clean",
+        "category": "Furnace",
+        "service": "Flame Sensor Replacement / Clean",
+        "description": "Replace or clean oxidized sensor",
+        "priceFrom": 250,
+        "priceTo": 250,
+        "flatRate": true,
+        "summary": "Replace or clean oxidized sensor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the flame sensor to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-inducer-motor-replacement",
+        "category": "Furnace",
+        "service": "Inducer Motor Replacement",
+        "description": "Draft inducer assembly",
+        "priceFrom": 800,
+        "priceTo": 1100,
+        "flatRate": false,
+        "summary": "Draft inducer assembly",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed inducer motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-blower-motor-replacement-psc",
+        "category": "Furnace",
+        "service": "Blower Motor Replacement (PSC)",
+        "description": "Standard blower motor",
+        "priceFrom": 900,
+        "priceTo": 1400,
+        "flatRate": false,
+        "summary": "Standard blower motor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed blower motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-blower-motor-replacement-ecm-vs",
+        "category": "Furnace",
+        "service": "Blower Motor Replacement (ECM/VS)",
+        "description": "Variable-speed ECM motor",
+        "priceFrom": 1000,
+        "priceTo": 1600,
+        "flatRate": false,
+        "summary": "Variable-speed ECM motor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed blower motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-blower-motor-capacitor",
+        "category": "Furnace",
+        "service": "Blower Motor Capacitor",
+        "description": "Run capacitor for blower",
+        "priceFrom": 300,
+        "priceTo": 300,
+        "flatRate": true,
+        "summary": "Run capacitor for blower",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Repair the blower motor capacitor and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-control-circuit-board-replacement",
+        "category": "Furnace",
+        "service": "Control / Circuit Board Replacement",
+        "description": "Integrated furnace control board",
+        "priceFrom": 700,
+        "priceTo": 1100,
+        "flatRate": false,
+        "summary": "Integrated furnace control board",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed control / circuit board and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-gas-valve-replacement",
+        "category": "Furnace",
+        "service": "Gas Valve Replacement",
+        "description": "Replace faulty gas valve",
+        "priceFrom": 450,
+        "priceTo": 750,
+        "flatRate": false,
+        "summary": "Replace faulty gas valve",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed gas valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-pressure-switch-replacement",
+        "category": "Furnace",
+        "service": "Pressure Switch Replacement",
+        "description": "Replace failed pressure switch",
+        "priceFrom": 300,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Replace failed pressure switch",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed pressure switch and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-limit-switch-replacement",
+        "category": "Furnace",
+        "service": "Limit Switch Replacement",
+        "description": "High-limit safety switch",
+        "priceFrom": 275,
+        "priceTo": 475,
+        "flatRate": false,
+        "summary": "High-limit safety switch",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed limit switch and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-secondary-heat-exchanger-replacement",
+        "category": "Furnace",
+        "service": "Secondary Heat Exchanger Replacement",
+        "description": "Condensing HX (parts heavy)",
+        "priceFrom": 2300,
+        "priceTo": 4600,
+        "flatRate": false,
+        "summary": "Condensing HX (parts heavy)",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed secondary heat exchanger and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-flue-venting-repair",
+        "category": "Furnace",
+        "service": "Flue / Venting Repair",
+        "description": "Repair or reseal flue venting",
+        "priceFrom": 250,
+        "priceTo": 800,
+        "flatRate": false,
+        "summary": "Repair or reseal flue venting",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Repair and reseal the flue / venting to code",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-thermocouple-replacement",
+        "category": "Furnace",
+        "service": "Thermocouple Replacement",
+        "description": "Standing pilot thermocouple",
+        "priceFrom": 300,
+        "priceTo": 450,
+        "flatRate": false,
+        "summary": "Standing pilot thermocouple",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed thermocouple and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-condensate-trap-drain-clean",
+        "category": "Furnace",
+        "service": "Condensate Trap / Drain Clean",
+        "description": "Clear blockage, clean trap",
+        "priceFrom": 200,
+        "priceTo": 200,
+        "flatRate": true,
+        "summary": "Clear blockage, clean trap",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the condensate trap / drain to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "furnace-annual-tune-up-maintenance",
+        "category": "Furnace",
+        "service": "Annual Tune-Up / Maintenance",
+        "description": "Full clean & safety inspection",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Full clean & safety inspection",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Complete a multi-point clean, inspection, and safety check",
+          "Test operation and verify safe, reliable performance"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Air Conditioner",
+    "services": [
+      {
+        "id": "air-conditioner-run-capacitor-replacement",
+        "category": "Air Conditioner",
+        "service": "Run Capacitor Replacement",
+        "description": "Dual/single run capacitor",
+        "priceFrom": 350,
+        "priceTo": 480,
+        "flatRate": false,
+        "summary": "Dual/single run capacitor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed run capacitor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-contactor-replacement",
+        "category": "Air Conditioner",
+        "service": "Contactor Replacement",
+        "description": "Compressor contactor",
+        "priceFrom": 280,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Compressor contactor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed contactor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-condenser-fan-motor-replacement",
+        "category": "Air Conditioner",
+        "service": "Condenser Fan Motor Replacement",
+        "description": "Outdoor fan motor",
+        "priceFrom": 900,
+        "priceTo": 1200,
+        "flatRate": false,
+        "summary": "Outdoor fan motor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed condenser fan motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-hard-start-kit-install",
+        "category": "Air Conditioner",
+        "service": "Hard Start Kit Install",
+        "description": "Compressor start assist",
+        "priceFrom": 400,
+        "priceTo": 400,
+        "flatRate": true,
+        "summary": "Compressor start assist",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Install the hard start kit and integrate it with the system",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-refrigerant-recharge-r-410a-per-lb",
+        "category": "Air Conditioner",
+        "service": "Refrigerant Recharge (R-410A, per lb)",
+        "description": "Top-up after leak repair",
+        "priceFrom": 120,
+        "priceTo": 120,
+        "flatRate": true,
+        "summary": "Top-up after leak repair",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the leak source, then weigh in refrigerant to manufacturer spec",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-refrigerant-recharge-r-22-per-lb",
+        "category": "Air Conditioner",
+        "service": "Refrigerant Recharge (R-22, per lb)",
+        "description": "Top-up after leak repair",
+        "priceFrom": 160,
+        "priceTo": 160,
+        "flatRate": true,
+        "summary": "Top-up after leak repair",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the leak source, then weigh in refrigerant to manufacturer spec",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-refrigerant-leak-detection",
+        "category": "Air Conditioner",
+        "service": "Refrigerant Leak Detection",
+        "description": "Electronic/dye leak search",
+        "priceFrom": 400,
+        "priceTo": 900,
+        "flatRate": false,
+        "summary": "Electronic/dye leak search",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Perform a systematic electronic/dye leak search and pinpoint the source",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-refrigerant-leak-repair-braze",
+        "category": "Air Conditioner",
+        "service": "Refrigerant Leak Repair (braze)",
+        "description": "Locate & braze leak point",
+        "priceFrom": 800,
+        "priceTo": 1100,
+        "flatRate": false,
+        "summary": "Locate & braze leak point",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the refrigerant leak and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-compressor-replacement",
+        "category": "Air Conditioner",
+        "service": "Compressor Replacement",
+        "description": "Outdoor compressor (parts heavy)",
+        "priceFrom": 1800,
+        "priceTo": 2800,
+        "flatRate": false,
+        "summary": "Outdoor compressor (parts heavy)",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Remove the failed compressor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-condenser-coil-cleaning",
+        "category": "Air Conditioner",
+        "service": "Condenser Coil Cleaning",
+        "description": "Chemical clean outdoor coil",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Chemical clean outdoor coil",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Clean and restore the condenser coil to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-evaporator-coil-replacement",
+        "category": "Air Conditioner",
+        "service": "Evaporator Coil Replacement",
+        "description": "Indoor A-coil replacement",
+        "priceFrom": 1600,
+        "priceTo": 2200,
+        "flatRate": false,
+        "summary": "Indoor A-coil replacement",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Remove the failed evaporator coil and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-txv-metering-device-replacement",
+        "category": "Air Conditioner",
+        "service": "TXV / Metering Device Replacement",
+        "description": "Thermostatic expansion valve",
+        "priceFrom": 600,
+        "priceTo": 850,
+        "flatRate": false,
+        "summary": "Thermostatic expansion valve",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Remove the failed txv / metering device and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-condensate-pump-replacement",
+        "category": "Air Conditioner",
+        "service": "Condensate Pump Replacement",
+        "description": "Replace failed pump",
+        "priceFrom": 300,
+        "priceTo": 300,
+        "flatRate": true,
+        "summary": "Replace failed pump",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed condensate pump and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-condensate-drain-clear",
+        "category": "Air Conditioner",
+        "service": "Condensate Drain Clear",
+        "description": "Flush clogged drain line",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Flush clogged drain line",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Repair the condensate drain clear and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "air-conditioner-annual-tune-up-maintenance",
+        "category": "Air Conditioner",
+        "service": "Annual Tune-Up / Maintenance",
+        "description": "Full clean & performance check",
+        "priceFrom": 175,
+        "priceTo": 175,
+        "flatRate": true,
+        "summary": "Full clean & performance check",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Complete a multi-point clean, inspection, and safety check",
+          "Test operation and verify safe, reliable performance"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Heat Pump",
+    "services": [
+      {
+        "id": "heat-pump-reversing-valve-replacement",
+        "category": "Heat Pump",
+        "service": "Reversing Valve Replacement",
+        "description": "Replace faulty reversing valve",
+        "priceFrom": 900,
+        "priceTo": 1400,
+        "flatRate": false,
+        "summary": "Replace faulty reversing valve",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Remove the failed reversing valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-reversing-valve-solenoid-coil",
+        "category": "Heat Pump",
+        "service": "Reversing Valve Solenoid Coil",
+        "description": "Coil only replacement",
+        "priceFrom": 300,
+        "priceTo": 500,
+        "flatRate": false,
+        "summary": "Coil only replacement",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the reversing valve solenoid coil and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-defrost-control-board-replacement",
+        "category": "Heat Pump",
+        "service": "Defrost Control Board Replacement",
+        "description": "Outdoor defrost board",
+        "priceFrom": 450,
+        "priceTo": 450,
+        "flatRate": true,
+        "summary": "Outdoor defrost board",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed defrost control board and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-defrost-sensor-thermistor",
+        "category": "Heat Pump",
+        "service": "Defrost Sensor / Thermistor",
+        "description": "Replace defrost sensor",
+        "priceFrom": 300,
+        "priceTo": 300,
+        "flatRate": true,
+        "summary": "Replace defrost sensor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Repair the defrost sensor / thermistor and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-run-capacitor-replacement",
+        "category": "Heat Pump",
+        "service": "Run Capacitor Replacement",
+        "description": "Dual/single run capacitor",
+        "priceFrom": 300,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Dual/single run capacitor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed run capacitor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-contactor-replacement",
+        "category": "Heat Pump",
+        "service": "Contactor Replacement",
+        "description": "Compressor contactor",
+        "priceFrom": 300,
+        "priceTo": 400,
+        "flatRate": false,
+        "summary": "Compressor contactor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed contactor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-outdoor-fan-motor-replacement",
+        "category": "Heat Pump",
+        "service": "Outdoor Fan Motor Replacement",
+        "description": "Condenser/outdoor fan motor",
+        "priceFrom": 600,
+        "priceTo": 900,
+        "flatRate": false,
+        "summary": "Condenser/outdoor fan motor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed outdoor fan motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-compressor-replacement",
+        "category": "Heat Pump",
+        "service": "Compressor Replacement",
+        "description": "Heat pump compressor (parts heavy)",
+        "priceFrom": 1900,
+        "priceTo": 3200,
+        "flatRate": false,
+        "summary": "Heat pump compressor (parts heavy)",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Remove the failed compressor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-refrigerant-recharge-r-410a-per-lb",
+        "category": "Heat Pump",
+        "service": "Refrigerant Recharge (R-410A, per lb)",
+        "description": "Top-up after leak repair",
+        "priceFrom": 120,
+        "priceTo": 120,
+        "flatRate": true,
+        "summary": "Top-up after leak repair",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the leak source, then weigh in refrigerant to manufacturer spec",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-refrigerant-recharge-r-22-per-lb",
+        "category": "Heat Pump",
+        "service": "Refrigerant Recharge (R-22, per lb)",
+        "description": "Top-up after leak repair",
+        "priceFrom": 160,
+        "priceTo": 160,
+        "flatRate": true,
+        "summary": "Top-up after leak repair",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the leak source, then weigh in refrigerant to manufacturer spec",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-refrigerant-leak-repair-braze",
+        "category": "Heat Pump",
+        "service": "Refrigerant Leak Repair (braze)",
+        "description": "Locate & braze leak point",
+        "priceFrom": 350,
+        "priceTo": 800,
+        "flatRate": false,
+        "summary": "Locate & braze leak point",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Repair the refrigerant leak and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-auxiliary-backup-heat-strip-repair",
+        "category": "Heat Pump",
+        "service": "Auxiliary / Backup Heat Strip Repair",
+        "description": "Electric aux heat element",
+        "priceFrom": 350,
+        "priceTo": 650,
+        "flatRate": false,
+        "summary": "Electric aux heat element",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Repair the auxiliary / backup heat strip and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-outdoor-coil-cleaning",
+        "category": "Heat Pump",
+        "service": "Outdoor Coil Cleaning",
+        "description": "Chemical clean outdoor coil",
+        "priceFrom": 200,
+        "priceTo": 200,
+        "flatRate": true,
+        "summary": "Chemical clean outdoor coil",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Recover refrigerant safely where required",
+          "Clean and restore the outdoor coil to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-inverter-control-board-replacement",
+        "category": "Heat Pump",
+        "service": "Inverter / Control Board Replacement",
+        "description": "Inverter board (mini-split/VS)",
+        "priceFrom": 900,
+        "priceTo": 1400,
+        "flatRate": false,
+        "summary": "Inverter board (mini-split/VS)",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Remove the failed inverter / control board and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "heat-pump-annual-tune-up-maintenance",
+        "category": "Heat Pump",
+        "service": "Annual Tune-Up / Maintenance",
+        "description": "Full clean & performance check",
+        "priceFrom": 200,
+        "priceTo": 200,
+        "flatRate": true,
+        "summary": "Full clean & performance check",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Complete a multi-point clean, inspection, and safety check",
+          "Test operation and verify safe, reliable performance"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Water Heater",
+    "services": [
+      {
+        "id": "water-heater-thermostat-replacement-electric",
+        "category": "Water Heater",
+        "service": "Thermostat Replacement (Electric)",
+        "description": "Upper/lower thermostat",
+        "priceFrom": 275,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Upper/lower thermostat",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed thermostat and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-heating-element-replacement-electric",
+        "category": "Water Heater",
+        "service": "Heating Element Replacement (Electric)",
+        "description": "Replace burnt-out element",
+        "priceFrom": 275,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Replace burnt-out element",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed heating element and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-thermocouple-replacement-gas",
+        "category": "Water Heater",
+        "service": "Thermocouple Replacement (Gas)",
+        "description": "Standing pilot thermocouple",
+        "priceFrom": 200,
+        "priceTo": 350,
+        "flatRate": false,
+        "summary": "Standing pilot thermocouple",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed thermocouple and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-gas-control-valve-replacement",
+        "category": "Water Heater",
+        "service": "Gas Control Valve Replacement",
+        "description": "Replace gas valve/thermostat",
+        "priceFrom": 400,
+        "priceTo": 600,
+        "flatRate": false,
+        "summary": "Replace gas valve/thermostat",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed gas control valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-pilot-assembly-igniter-repair",
+        "category": "Water Heater",
+        "service": "Pilot Assembly / Igniter Repair",
+        "description": "Pilot or igniter assembly",
+        "priceFrom": 200,
+        "priceTo": 400,
+        "flatRate": false,
+        "summary": "Pilot or igniter assembly",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Repair the pilot assembly / igniter and correct the underlying issue",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-anode-rod-replacement",
+        "category": "Water Heater",
+        "service": "Anode Rod Replacement",
+        "description": "Sacrificial anode rod swap",
+        "priceFrom": 250,
+        "priceTo": 320,
+        "flatRate": false,
+        "summary": "Sacrificial anode rod swap",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed anode rod and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-tank-flush-sediment-removal",
+        "category": "Water Heater",
+        "service": "Tank Flush / Sediment Removal",
+        "description": "Drain & flush sediment",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Drain & flush sediment",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the tank to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-t-p-relief-valve-replacement",
+        "category": "Water Heater",
+        "service": "T&P Relief Valve Replacement",
+        "description": "Temperature/pressure relief valve",
+        "priceFrom": 200,
+        "priceTo": 200,
+        "flatRate": true,
+        "summary": "Temperature/pressure relief valve",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed t&p relief valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-dip-tube-replacement",
+        "category": "Water Heater",
+        "service": "Dip Tube Replacement",
+        "description": "Replace broken dip tube",
+        "priceFrom": 200,
+        "priceTo": 320,
+        "flatRate": false,
+        "summary": "Replace broken dip tube",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed dip tube and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-drain-valve-replacement",
+        "category": "Water Heater",
+        "service": "Drain Valve Replacement",
+        "description": "Replace leaking drain valve",
+        "priceFrom": 150,
+        "priceTo": 280,
+        "flatRate": false,
+        "summary": "Replace leaking drain valve",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed drain valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-expansion-tank-install",
+        "category": "Water Heater",
+        "service": "Expansion Tank Install",
+        "description": "Thermal expansion tank",
+        "priceFrom": 400,
+        "priceTo": 600,
+        "flatRate": false,
+        "summary": "Thermal expansion tank",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Install the expansion tank and integrate it with the system",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "water-heater-annual-flush-maintenance",
+        "category": "Water Heater",
+        "service": "Annual Flush / Maintenance",
+        "description": "Flush & inspection",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Flush & inspection",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the annual to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Tankless Water Heater",
+    "services": [
+      {
+        "id": "tankless-water-heater-descale-flush-service",
+        "category": "Tankless Water Heater",
+        "service": "Descale / Flush Service",
+        "description": "Vinegar/solution descaling",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Vinegar/solution descaling",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the descale to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-flow-sensor-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Flow Sensor Replacement",
+        "description": "Replace water flow sensor",
+        "priceFrom": 250,
+        "priceTo": 450,
+        "flatRate": false,
+        "summary": "Replace water flow sensor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed flow sensor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-igniter-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Igniter Replacement",
+        "description": "Replace ignition assembly",
+        "priceFrom": 250,
+        "priceTo": 450,
+        "flatRate": false,
+        "summary": "Replace ignition assembly",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed igniter and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-flame-rod-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Flame Rod Replacement",
+        "description": "Replace flame sensor rod",
+        "priceFrom": 200,
+        "priceTo": 380,
+        "flatRate": false,
+        "summary": "Replace flame sensor rod",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed flame rod and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-heat-exchanger-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Heat Exchanger Replacement",
+        "description": "Replace exchanger (parts heavy)",
+        "priceFrom": 1200,
+        "priceTo": 1600,
+        "flatRate": false,
+        "summary": "Replace exchanger (parts heavy)",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed heat exchanger and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-control-pcb-board-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Control / PCB Board Replacement",
+        "description": "Main control board",
+        "priceFrom": 600,
+        "priceTo": 900,
+        "flatRate": false,
+        "summary": "Main control board",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed control / pcb board and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-gas-valve-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Gas Valve Replacement",
+        "description": "Replace gas valve assembly",
+        "priceFrom": 500,
+        "priceTo": 750,
+        "flatRate": false,
+        "summary": "Replace gas valve assembly",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed gas valve and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-fan-blower-motor-replacement",
+        "category": "Tankless Water Heater",
+        "service": "Fan / Blower Motor Replacement",
+        "description": "Combustion fan motor",
+        "priceFrom": 600,
+        "priceTo": 800,
+        "flatRate": false,
+        "summary": "Combustion fan motor",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Remove the failed fan / blower motor and fit an OEM-spec replacement",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-inlet-water-filter-clean-replace",
+        "category": "Tankless Water Heater",
+        "service": "Inlet Water Filter Clean / Replace",
+        "description": "Clean or swap inlet screen",
+        "priceFrom": 150,
+        "priceTo": 150,
+        "flatRate": true,
+        "summary": "Clean or swap inlet screen",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the inlet water filter to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-venting-repair-reseal",
+        "category": "Tankless Water Heater",
+        "service": "Venting Repair / Reseal",
+        "description": "Repair concentric venting",
+        "priceFrom": 300,
+        "priceTo": 800,
+        "flatRate": false,
+        "summary": "Repair concentric venting",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Repair and reseal the venting to code",
+          "Test operation and verify safe, reliable performance"
+        ]
+      },
+      {
+        "id": "tankless-water-heater-annual-descale-maintenance",
+        "category": "Tankless Water Heater",
+        "service": "Annual Descale / Maintenance",
+        "description": "Descale & full inspection",
+        "priceFrom": 150,
+        "priceTo": 200,
+        "flatRate": false,
+        "summary": "Descale & full inspection",
+        "scope": [
+          "Diagnose and confirm the fault on-site",
+          "Isolate gas and electrical power before service",
+          "Clean and restore the annual descale to proper operating condition",
+          "Test operation and verify safe, reliable performance"
+        ]
+      }
+    ]
+  }
+]
