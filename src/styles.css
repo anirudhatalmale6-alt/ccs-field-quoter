@@ -721,6 +721,11 @@ details.tradeoffs ul {
 }
 
 /* -------------------------------------------------------------------- table */
+/* a select in a table cell must be wide enough to read its own value */
+td select {
+  min-width: 120px;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
