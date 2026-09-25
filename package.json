@@ -1,11 +1,14 @@
 {
-  "name": "project",
+  "name": "ccs-quoter",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "node canary.js && tsc",
-    "prepare": "node canary.js"
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "verify:finance": "node scripts/verify-finance.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",
